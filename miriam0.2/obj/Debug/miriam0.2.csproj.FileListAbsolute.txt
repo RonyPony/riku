@@ -1,0 +1,810 @@
+C:\Users\Rony\source\repos\miriam0.2\miriam0.2\bin\Debug\miriam0.2.exe.config
+C:\Users\Rony\source\repos\miriam0.2\miriam0.2\bin\Debug\miriam0.2.exe
+C:\Users\Rony\source\repos\miriam0.2\miriam0.2\bin\Debug\miriam0.2.pdb
+C:\Users\Rony\source\repos\miriam0.2\miriam0.2\obj\Debug\miriam0._2.admUsuarios.resources
+C:\Users\Rony\source\repos\miriam0.2\miriam0.2\obj\Debug\miriam0._2.agregarSuplidor.resources
+C:\Users\Rony\source\repos\miriam0.2\miriam0.2\obj\Debug\miriam0._2.compraAsuplidor.resources
+C:\Users\Rony\source\repos\miriam0.2\miriam0.2\obj\Debug\miriam0._2.facturar.resources
+C:\Users\Rony\source\repos\miriam0.2\miriam0.2\obj\Debug\miriam0._2.Form1.resources
+C:\Users\Rony\source\repos\miriam0.2\miriam0.2\obj\Debug\miriam0._2.home.resources
+C:\Users\Rony\source\repos\miriam0.2\miriam0.2\obj\Debug\miriam0._2.Properties.Resources.resources
+C:\Users\Rony\source\repos\miriam0.2\miriam0.2\obj\Debug\miriam0._2.splash.resources
+C:\Users\Rony\source\repos\miriam0.2\miriam0.2\obj\Debug\miriam0.2.csproj.GenerateResource.Cache
+C:\Users\Rony\source\repos\miriam0.2\miriam0.2\obj\Debug\miriam0.2.csproj.CoreCompileInputs.cache
+C:\Users\Rony\source\repos\miriam0.2\miriam0.2\obj\Debug\miriam0.2.exe
+C:\Users\Rony\source\repos\miriam0.2\miriam0.2\obj\Debug\miriam0.2.pdb
+C:\Users\Rony\source\repos\miriam0.2\miriam0.2\obj\Debug\miriam0.2.csprojResolveAssemblyReference.cache
+C:\Users\Rony\source\repos\miriam0.2\miriam0.2\obj\Debug\miriam0._2.resetPasword.resources
+C:\Users\Rony\source\repos\miriam0.2\miriam0.2\obj\Debug\miriam0._2.nuevoUsr.resources
+C:\Users\Rony\source\repos\miriam0.2\miriam0.2\obj\Debug\miriam0._2.generador.resources
+C:\Users\Rony\source\repos\miriam0.2\miriam0.2\obj\Debug\miriam0._2.eliminar.resources
+C:\Users\Ing. Rony Cruz\Desktop\embutidos el mana de dios\miriam0.2\bin\Debug\elmanadedios.exe.config
+C:\Users\Ing. Rony Cruz\Desktop\embutidos el mana de dios\miriam0.2\bin\Debug\elmanadedios.exe
+C:\Users\Ing. Rony Cruz\Desktop\embutidos el mana de dios\miriam0.2\bin\Debug\elmanadedios.pdb
+C:\Users\Ing. Rony Cruz\Desktop\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0.2.csprojResolveAssemblyReference.cache
+C:\Users\Ing. Rony Cruz\Desktop\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.admUsuarios.resources
+C:\Users\Ing. Rony Cruz\Desktop\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.agregarSuplidor.resources
+C:\Users\Ing. Rony Cruz\Desktop\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.compraAsuplidor.resources
+C:\Users\Ing. Rony Cruz\Desktop\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.eliminar.resources
+C:\Users\Ing. Rony Cruz\Desktop\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.facturar.resources
+C:\Users\Ing. Rony Cruz\Desktop\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.Form1.resources
+C:\Users\Ing. Rony Cruz\Desktop\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.generador.resources
+C:\Users\Ing. Rony Cruz\Desktop\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.home.resources
+C:\Users\Ing. Rony Cruz\Desktop\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.nuevoUsr.resources
+C:\Users\Ing. Rony Cruz\Desktop\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.Properties.Resources.resources
+C:\Users\Ing. Rony Cruz\Desktop\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.resetPasword.resources
+C:\Users\Ing. Rony Cruz\Desktop\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.splash.resources
+C:\Users\Ing. Rony Cruz\Desktop\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0.2.csproj.GenerateResource.Cache
+C:\Users\Ing. Rony Cruz\Desktop\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0.2.csproj.CoreCompileInputs.cache
+C:\Users\Ing. Rony Cruz\Desktop\embutidos el mana de dios\miriam0.2\obj\Debug\elmanadedios.exe
+C:\Users\Ing. Rony Cruz\Desktop\embutidos el mana de dios\miriam0.2\obj\Debug\elmanadedios.pdb
+C:\Users\Ing. Rony Cruz\Desktop\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.inventario.resources
+C:\Users\Ing. Rony Cruz\Desktop\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.calculadora.resources
+C:\Users\Ing. Rony Cruz\Desktop\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.consultarSuplidor.resources
+C:\Users\Ing. Rony Cruz\Desktop\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.verusuarios.resources
+C:\Users\Ing. Rony Cruz\Desktop\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.conversor.resources
+C:\Users\Ing. Rony Cruz\Desktop\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.agregarainventario.resources
+C:\Users\Ing. Rony Cruz\Desktop\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.suplidoresdecidir.resources
+C:\Users\Ing. Rony Cruz\Desktop\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.consultarCliente.resources
+C:\Users\Ing. Rony Cruz\Desktop\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.clientesDecidir.resources
+C:\Users\Ing. Rony Cruz\Desktop\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.agregarCliente.resources
+C:\Users\Ing. Rony Cruz\Desktop\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.reporteInventario.resources
+C:\Users\Ing. Rony Cruz\Desktop\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.logview.resources
+C:\Users\Ing. Rony Cruz\Desktop\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.consultarVentas.resources
+C:\Users\Ing. Rony Cruz\Desktop\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.FacturaViewer.resources
+F:\embutidos el mana de dios\miriam0.2\bin\Debug\elmanadedios.exe.config
+F:\embutidos el mana de dios\miriam0.2\bin\Debug\elmanadedios.exe
+F:\embutidos el mana de dios\miriam0.2\bin\Debug\elmanadedios.pdb
+F:\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.admUsuarios.resources
+F:\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.agregarainventario.resources
+F:\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.agregarCliente.resources
+F:\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.agregarSuplidor.resources
+F:\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.calculadora.resources
+F:\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.clientesDecidir.resources
+F:\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.compraAsuplidor.resources
+F:\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.consultarCliente.resources
+F:\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.consultarSuplidor.resources
+F:\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.consultarVentas.resources
+F:\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.conversor.resources
+F:\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.eliminar.resources
+F:\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.facturar.resources
+F:\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.FacturaViewer.resources
+F:\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.Form1.resources
+F:\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.generador.resources
+F:\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.home.resources
+F:\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.inventario.resources
+F:\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.logview.resources
+F:\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.nuevoUsr.resources
+F:\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.Properties.Resources.resources
+F:\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.reporteInventario.resources
+F:\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.splash.resources
+F:\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.suplidoresdecidir.resources
+F:\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.verusuarios.resources
+F:\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0.2.csproj.GenerateResource.Cache
+F:\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0.2.csproj.CoreCompileInputs.cache
+F:\embutidos el mana de dios\miriam0.2\obj\Debug\elmanadedios.exe
+F:\embutidos el mana de dios\miriam0.2\obj\Debug\elmanadedios.pdb
+F:\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.salidadeinventario.resources
+F:\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.agregarVentaDeldia.resources
+F:\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.consultarVentasDiaria.resources
+F:\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.agregarActividad.resources
+F:\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.consultarActividades.resources
+F:\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0.2.csprojResolveAssemblyReference.cache
+F:\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.facturaNo.resources
+C:\Users\rony cruz\Desktop\Riku\miriam0.2\obj\Debug\miriam0.2.csprojResolveAssemblyReference.cache
+C:\Users\rony cruz\Desktop\Riku\miriam0.2\obj\Debug\miriam0._2.admUsuarios.resources
+C:\Users\rony cruz\Desktop\Riku\miriam0.2\obj\Debug\miriam0._2.agregarActividad.resources
+C:\Users\rony cruz\Desktop\Riku\miriam0.2\obj\Debug\miriam0._2.agregarainventario.resources
+C:\Users\rony cruz\Desktop\Riku\miriam0.2\obj\Debug\miriam0._2.agregarCliente.resources
+C:\Users\rony cruz\Desktop\Riku\miriam0.2\obj\Debug\miriam0._2.agregarSuplidor.resources
+C:\Users\rony cruz\Desktop\Riku\miriam0.2\obj\Debug\miriam0._2.agregarVentaDeldia.resources
+C:\Users\rony cruz\Desktop\Riku\miriam0.2\obj\Debug\miriam0._2.calculadora.resources
+C:\Users\rony cruz\Desktop\Riku\miriam0.2\obj\Debug\miriam0._2.clientesDecidir.resources
+C:\Users\rony cruz\Desktop\Riku\miriam0.2\obj\Debug\miriam0._2.compraAsuplidor.resources
+C:\Users\rony cruz\Desktop\Riku\miriam0.2\obj\Debug\miriam0._2.consultarActividades.resources
+C:\Users\rony cruz\Desktop\Riku\miriam0.2\obj\Debug\miriam0._2.consultarCliente.resources
+C:\Users\rony cruz\Desktop\Riku\miriam0.2\obj\Debug\miriam0._2.consultarSuplidor.resources
+C:\Users\rony cruz\Desktop\Riku\miriam0.2\obj\Debug\miriam0._2.consultarVentas.resources
+C:\Users\rony cruz\Desktop\Riku\miriam0.2\obj\Debug\miriam0._2.consultarVentasDiaria.resources
+C:\Users\rony cruz\Desktop\Riku\miriam0.2\obj\Debug\miriam0._2.conversor.resources
+C:\Users\rony cruz\Desktop\Riku\miriam0.2\obj\Debug\miriam0._2.eliminar.resources
+C:\Users\rony cruz\Desktop\Riku\miriam0.2\obj\Debug\miriam0._2.facturaNo.resources
+C:\Users\rony cruz\Desktop\Riku\miriam0.2\obj\Debug\miriam0._2.facturar.resources
+C:\Users\rony cruz\Desktop\Riku\miriam0.2\obj\Debug\miriam0._2.FacturaViewer.resources
+C:\Users\rony cruz\Desktop\Riku\miriam0.2\obj\Debug\miriam0._2.Form1.resources
+C:\Users\rony cruz\Desktop\Riku\miriam0.2\obj\Debug\miriam0._2.generador.resources
+C:\Users\rony cruz\Desktop\Riku\miriam0.2\obj\Debug\miriam0._2.home.resources
+C:\Users\rony cruz\Desktop\Riku\miriam0.2\obj\Debug\miriam0._2.inventario.resources
+C:\Users\rony cruz\Desktop\Riku\miriam0.2\obj\Debug\miriam0._2.logview.resources
+C:\Users\rony cruz\Desktop\Riku\miriam0.2\obj\Debug\miriam0._2.nuevoUsr.resources
+C:\Users\rony cruz\Desktop\Riku\miriam0.2\obj\Debug\miriam0._2.reporteInventario.resources
+C:\Users\rony cruz\Desktop\Riku\miriam0.2\obj\Debug\miriam0._2.salidadeinventario.resources
+C:\Users\rony cruz\Desktop\Riku\miriam0.2\obj\Debug\miriam0._2.splash.resources
+C:\Users\rony cruz\Desktop\Riku\miriam0.2\obj\Debug\miriam0._2.suplidoresdecidir.resources
+C:\Users\rony cruz\Desktop\Riku\miriam0.2\obj\Debug\miriam0._2.verusuarios.resources
+C:\Users\rony cruz\Desktop\Riku\miriam0.2\obj\Debug\miriam0.2.csproj.GenerateResource.Cache
+C:\Users\rony cruz\Desktop\Riku\miriam0.2\obj\Debug\miriam0.2.csproj.CoreCompileInputs.cache
+C:\Users\rony cruz\Desktop\Riku\miriam0.2\bin\Debug\riku.exe.config
+C:\Users\rony cruz\Desktop\Riku\miriam0.2\bin\Debug\riku.exe
+C:\Users\rony cruz\Desktop\Riku\miriam0.2\bin\Debug\riku.pdb
+C:\Users\rony cruz\Desktop\Riku\miriam0.2\obj\Debug\riku.Properties.Resources.resources
+C:\Users\rony cruz\Desktop\Riku\miriam0.2\obj\Debug\riku.exe
+C:\Users\rony cruz\Desktop\Riku\miriam0.2\obj\Debug\riku.pdb
+C:\Users\rony cruz\Desktop\Riku\miriam0.2\obj\Debug\riku.settings.resources
+C:\Users\rony cruz\Desktop\riku git\riku\miriam0.2\bin\Debug\riku.exe.config
+C:\Users\rony cruz\Desktop\riku git\riku\miriam0.2\bin\Debug\riku.exe
+C:\Users\rony cruz\Desktop\riku git\riku\miriam0.2\bin\Debug\riku.pdb
+C:\Users\rony cruz\Desktop\riku git\riku\miriam0.2\obj\Debug\miriam0.2.csprojResolveAssemblyReference.cache
+C:\Users\rony cruz\Desktop\riku git\riku\miriam0.2\obj\Debug\miriam0._2.admUsuarios.resources
+C:\Users\rony cruz\Desktop\riku git\riku\miriam0.2\obj\Debug\miriam0._2.agregarActividad.resources
+C:\Users\rony cruz\Desktop\riku git\riku\miriam0.2\obj\Debug\miriam0._2.agregarainventario.resources
+C:\Users\rony cruz\Desktop\riku git\riku\miriam0.2\obj\Debug\miriam0._2.agregarCliente.resources
+C:\Users\rony cruz\Desktop\riku git\riku\miriam0.2\obj\Debug\miriam0._2.agregarSuplidor.resources
+C:\Users\rony cruz\Desktop\riku git\riku\miriam0.2\obj\Debug\miriam0._2.agregarVentaDeldia.resources
+C:\Users\rony cruz\Desktop\riku git\riku\miriam0.2\obj\Debug\miriam0._2.calculadora.resources
+C:\Users\rony cruz\Desktop\riku git\riku\miriam0.2\obj\Debug\miriam0._2.clientesDecidir.resources
+C:\Users\rony cruz\Desktop\riku git\riku\miriam0.2\obj\Debug\miriam0._2.compraAsuplidor.resources
+C:\Users\rony cruz\Desktop\riku git\riku\miriam0.2\obj\Debug\miriam0._2.consultarActividades.resources
+C:\Users\rony cruz\Desktop\riku git\riku\miriam0.2\obj\Debug\miriam0._2.consultarCliente.resources
+C:\Users\rony cruz\Desktop\riku git\riku\miriam0.2\obj\Debug\miriam0._2.consultarSuplidor.resources
+C:\Users\rony cruz\Desktop\riku git\riku\miriam0.2\obj\Debug\miriam0._2.consultarVentas.resources
+C:\Users\rony cruz\Desktop\riku git\riku\miriam0.2\obj\Debug\miriam0._2.consultarVentasDiaria.resources
+C:\Users\rony cruz\Desktop\riku git\riku\miriam0.2\obj\Debug\miriam0._2.conversor.resources
+C:\Users\rony cruz\Desktop\riku git\riku\miriam0.2\obj\Debug\miriam0._2.eliminar.resources
+C:\Users\rony cruz\Desktop\riku git\riku\miriam0.2\obj\Debug\miriam0._2.facturaNo.resources
+C:\Users\rony cruz\Desktop\riku git\riku\miriam0.2\obj\Debug\miriam0._2.facturar.resources
+C:\Users\rony cruz\Desktop\riku git\riku\miriam0.2\obj\Debug\miriam0._2.FacturaViewer.resources
+C:\Users\rony cruz\Desktop\riku git\riku\miriam0.2\obj\Debug\miriam0._2.Form1.resources
+C:\Users\rony cruz\Desktop\riku git\riku\miriam0.2\obj\Debug\miriam0._2.generador.resources
+C:\Users\rony cruz\Desktop\riku git\riku\miriam0.2\obj\Debug\miriam0._2.home.resources
+C:\Users\rony cruz\Desktop\riku git\riku\miriam0.2\obj\Debug\miriam0._2.inventario.resources
+C:\Users\rony cruz\Desktop\riku git\riku\miriam0.2\obj\Debug\miriam0._2.logview.resources
+C:\Users\rony cruz\Desktop\riku git\riku\miriam0.2\obj\Debug\miriam0._2.nuevoUsr.resources
+C:\Users\rony cruz\Desktop\riku git\riku\miriam0.2\obj\Debug\riku.Properties.Resources.resources
+C:\Users\rony cruz\Desktop\riku git\riku\miriam0.2\obj\Debug\miriam0._2.reporteInventario.resources
+C:\Users\rony cruz\Desktop\riku git\riku\miriam0.2\obj\Debug\miriam0._2.salidadeinventario.resources
+C:\Users\rony cruz\Desktop\riku git\riku\miriam0.2\obj\Debug\riku.settings.resources
+C:\Users\rony cruz\Desktop\riku git\riku\miriam0.2\obj\Debug\miriam0._2.splash.resources
+C:\Users\rony cruz\Desktop\riku git\riku\miriam0.2\obj\Debug\miriam0._2.suplidoresdecidir.resources
+C:\Users\rony cruz\Desktop\riku git\riku\miriam0.2\obj\Debug\miriam0._2.verusuarios.resources
+C:\Users\rony cruz\Desktop\riku git\riku\miriam0.2\obj\Debug\miriam0.2.csproj.GenerateResource.Cache
+C:\Users\rony cruz\Desktop\riku git\riku\miriam0.2\obj\Debug\miriam0.2.csproj.CoreCompileInputs.cache
+C:\Users\rony cruz\Desktop\riku git\riku\miriam0.2\obj\Debug\riku.exe
+C:\Users\rony cruz\Desktop\riku git\riku\miriam0.2\obj\Debug\riku.pdb
+C:\Users\el_lo\Desktop\riku\miriam0.2\bin\Debug\riku.exe.config
+C:\Users\el_lo\Desktop\riku\miriam0.2\bin\Debug\riku.exe
+C:\Users\el_lo\Desktop\riku\miriam0.2\bin\Debug\riku.pdb
+C:\Users\el_lo\Desktop\riku\miriam0.2\bin\Debug\updater.dll
+C:\Users\el_lo\Desktop\riku\miriam0.2\bin\Debug\updater.pdb
+C:\Users\el_lo\Desktop\riku\miriam0.2\bin\Debug\updater.dll.config
+C:\Users\el_lo\Desktop\riku\miriam0.2\obj\Debug\miriam0.2.csprojResolveAssemblyReference.cache
+C:\Users\el_lo\Desktop\riku\miriam0.2\obj\Debug\miriam0._2.admUsuarios.resources
+C:\Users\el_lo\Desktop\riku\miriam0.2\obj\Debug\miriam0._2.agregarActividad.resources
+C:\Users\el_lo\Desktop\riku\miriam0.2\obj\Debug\miriam0._2.agregarainventario.resources
+C:\Users\el_lo\Desktop\riku\miriam0.2\obj\Debug\miriam0._2.agregarCliente.resources
+C:\Users\el_lo\Desktop\riku\miriam0.2\obj\Debug\miriam0._2.agregarSuplidor.resources
+C:\Users\el_lo\Desktop\riku\miriam0.2\obj\Debug\miriam0._2.agregarVentaDeldia.resources
+C:\Users\el_lo\Desktop\riku\miriam0.2\obj\Debug\miriam0._2.calculadora.resources
+C:\Users\el_lo\Desktop\riku\miriam0.2\obj\Debug\miriam0._2.clientesDecidir.resources
+C:\Users\el_lo\Desktop\riku\miriam0.2\obj\Debug\miriam0._2.compraAsuplidor.resources
+C:\Users\el_lo\Desktop\riku\miriam0.2\obj\Debug\miriam0._2.consultarActividades.resources
+C:\Users\el_lo\Desktop\riku\miriam0.2\obj\Debug\miriam0._2.consultarCliente.resources
+C:\Users\el_lo\Desktop\riku\miriam0.2\obj\Debug\miriam0._2.consultarSuplidor.resources
+C:\Users\el_lo\Desktop\riku\miriam0.2\obj\Debug\miriam0._2.consultarVentas.resources
+C:\Users\el_lo\Desktop\riku\miriam0.2\obj\Debug\miriam0._2.consultarVentasDiaria.resources
+C:\Users\el_lo\Desktop\riku\miriam0.2\obj\Debug\miriam0._2.conversor.resources
+C:\Users\el_lo\Desktop\riku\miriam0.2\obj\Debug\miriam0._2.eliminar.resources
+C:\Users\el_lo\Desktop\riku\miriam0.2\obj\Debug\miriam0._2.facturaNo.resources
+C:\Users\el_lo\Desktop\riku\miriam0.2\obj\Debug\miriam0._2.facturar.resources
+C:\Users\el_lo\Desktop\riku\miriam0.2\obj\Debug\miriam0._2.FacturaViewer.resources
+C:\Users\el_lo\Desktop\riku\miriam0.2\obj\Debug\miriam0._2.Form1.resources
+C:\Users\el_lo\Desktop\riku\miriam0.2\obj\Debug\miriam0._2.generador.resources
+C:\Users\el_lo\Desktop\riku\miriam0.2\obj\Debug\miriam0._2.home.resources
+C:\Users\el_lo\Desktop\riku\miriam0.2\obj\Debug\miriam0._2.inventario.resources
+C:\Users\el_lo\Desktop\riku\miriam0.2\obj\Debug\miriam0._2.logview.resources
+C:\Users\el_lo\Desktop\riku\miriam0.2\obj\Debug\miriam0._2.nuevoUsr.resources
+C:\Users\el_lo\Desktop\riku\miriam0.2\obj\Debug\riku.Properties.Resources.resources
+C:\Users\el_lo\Desktop\riku\miriam0.2\obj\Debug\miriam0._2.reporteInventario.resources
+C:\Users\el_lo\Desktop\riku\miriam0.2\obj\Debug\miriam0._2.salidadeinventario.resources
+C:\Users\el_lo\Desktop\riku\miriam0.2\obj\Debug\riku.settings.resources
+C:\Users\el_lo\Desktop\riku\miriam0.2\obj\Debug\miriam0._2.splash.resources
+C:\Users\el_lo\Desktop\riku\miriam0.2\obj\Debug\miriam0._2.suplidoresdecidir.resources
+C:\Users\el_lo\Desktop\riku\miriam0.2\obj\Debug\miriam0._2.verusuarios.resources
+C:\Users\el_lo\Desktop\riku\miriam0.2\obj\Debug\miriam0.2.csproj.GenerateResource.Cache
+C:\Users\el_lo\Desktop\riku\miriam0.2\obj\Debug\miriam0.2.csproj.CoreCompileInputs.cache
+C:\Users\el_lo\Desktop\riku\miriam0.2\obj\Debug\riku.exe
+C:\Users\el_lo\Desktop\riku\miriam0.2\obj\Debug\riku.pdb
+C:\Users\Rony\Documents\riku2\miriam0.2\obj\Debug\miriam0.2.csprojResolveAssemblyReference.cache
+C:\Users\Rony\Documents\riku2\miriam0.2\obj\Debug\miriam0._2.admUsuarios.resources
+C:\Users\Rony\Documents\riku2\miriam0.2\obj\Debug\miriam0._2.agregarActividad.resources
+C:\Users\Rony\Documents\riku2\miriam0.2\obj\Debug\miriam0._2.agregarainventario.resources
+C:\Users\Rony\Documents\riku2\miriam0.2\obj\Debug\miriam0._2.agregarCliente.resources
+C:\Users\Rony\Documents\riku2\miriam0.2\obj\Debug\miriam0._2.agregarSuplidor.resources
+C:\Users\Rony\Documents\riku2\miriam0.2\obj\Debug\miriam0._2.agregarVentaDeldia.resources
+C:\Users\Rony\Documents\riku2\miriam0.2\obj\Debug\miriam0._2.calculadora.resources
+C:\Users\Rony\Documents\riku2\miriam0.2\obj\Debug\miriam0._2.clientesDecidir.resources
+C:\Users\Rony\Documents\riku2\miriam0.2\obj\Debug\miriam0._2.compraAsuplidor.resources
+C:\Users\Rony\Documents\riku2\miriam0.2\obj\Debug\miriam0._2.consultarActividades.resources
+C:\Users\Rony\Documents\riku2\miriam0.2\obj\Debug\miriam0._2.consultarCliente.resources
+C:\Users\Rony\Documents\riku2\miriam0.2\obj\Debug\miriam0._2.consultarSuplidor.resources
+C:\Users\Rony\Documents\riku2\miriam0.2\obj\Debug\miriam0._2.consultarVentas.resources
+C:\Users\Rony\Documents\riku2\miriam0.2\obj\Debug\miriam0._2.consultarVentasDiaria.resources
+C:\Users\Rony\Documents\riku2\miriam0.2\obj\Debug\miriam0._2.conversor.resources
+C:\Users\Rony\Documents\riku2\miriam0.2\obj\Debug\miriam0._2.eliminar.resources
+C:\Users\Rony\Documents\riku2\miriam0.2\obj\Debug\miriam0._2.facturaNo.resources
+C:\Users\Rony\Documents\riku2\miriam0.2\obj\Debug\miriam0._2.facturar.resources
+C:\Users\Rony\Documents\riku2\miriam0.2\obj\Debug\miriam0._2.FacturaViewer.resources
+C:\Users\Rony\Documents\riku2\miriam0.2\obj\Debug\miriam0._2.Form1.resources
+C:\Users\Rony\Documents\riku2\miriam0.2\obj\Debug\miriam0._2.generador.resources
+C:\Users\Rony\Documents\riku2\miriam0.2\obj\Debug\miriam0._2.home.resources
+C:\Users\Rony\Documents\riku2\miriam0.2\obj\Debug\miriam0._2.inventario.resources
+C:\Users\Rony\Documents\riku2\miriam0.2\obj\Debug\miriam0._2.logview.resources
+C:\Users\Rony\Documents\riku2\miriam0.2\obj\Debug\miriam0._2.nuevoUsr.resources
+C:\Users\Rony\Documents\riku2\miriam0.2\obj\Debug\riku.Properties.Resources.resources
+C:\Users\Rony\Documents\riku2\miriam0.2\obj\Debug\miriam0._2.reporteInventario.resources
+C:\Users\Rony\Documents\riku2\miriam0.2\obj\Debug\miriam0._2.salidadeinventario.resources
+C:\Users\Rony\Documents\riku2\miriam0.2\obj\Debug\riku.settings.resources
+C:\Users\Rony\Documents\riku2\miriam0.2\obj\Debug\miriam0._2.splash.resources
+C:\Users\Rony\Documents\riku2\miriam0.2\obj\Debug\miriam0._2.suplidoresdecidir.resources
+C:\Users\Rony\Documents\riku2\miriam0.2\obj\Debug\miriam0._2.verusuarios.resources
+C:\Users\Rony\Documents\riku2\miriam0.2\obj\Debug\miriam0.2.csproj.GenerateResource.Cache
+C:\Users\Rony\Documents\riku2\miriam0.2\obj\Debug\miriam0.2.csproj.CoreCompileInputs.cache
+C:\Users\Rony\Documents\riku2\miriam0.2\obj\Debug\riku.exe
+C:\Users\Rony\Documents\riku2\miriam0.2\obj\Debug\riku.pdb
+C:\Users\Rony\Documents\riku2\miriam0.2\bin\Debug\riku.exe.config
+C:\Users\Rony\Documents\riku2\miriam0.2\bin\Debug\riku.exe
+C:\Users\Rony\Documents\riku2\miriam0.2\bin\Debug\riku.pdb
+C:\Users\ron\Documents\RIKU\riku\miriam0.2\bin\Debug\riku.exe.config
+C:\Users\ron\Documents\RIKU\riku\miriam0.2\bin\Debug\riku.exe
+C:\Users\ron\Documents\RIKU\riku\miriam0.2\bin\Debug\riku.pdb
+C:\Users\ron\Documents\RIKU\riku\miriam0.2\obj\Debug\miriam0._2.admUsuarios.resources
+C:\Users\ron\Documents\RIKU\riku\miriam0.2\obj\Debug\miriam0._2.agregarActividad.resources
+C:\Users\ron\Documents\RIKU\riku\miriam0.2\obj\Debug\miriam0._2.agregarainventario.resources
+C:\Users\ron\Documents\RIKU\riku\miriam0.2\obj\Debug\miriam0._2.agregarCliente.resources
+C:\Users\ron\Documents\RIKU\riku\miriam0.2\obj\Debug\miriam0._2.agregarSuplidor.resources
+C:\Users\ron\Documents\RIKU\riku\miriam0.2\obj\Debug\miriam0._2.agregarVentaDeldia.resources
+C:\Users\ron\Documents\RIKU\riku\miriam0.2\obj\Debug\miriam0._2.calculadora.resources
+C:\Users\ron\Documents\RIKU\riku\miriam0.2\obj\Debug\miriam0._2.clientesDecidir.resources
+C:\Users\ron\Documents\RIKU\riku\miriam0.2\obj\Debug\miriam0._2.compraAsuplidor.resources
+C:\Users\ron\Documents\RIKU\riku\miriam0.2\obj\Debug\miriam0._2.consultarActividades.resources
+C:\Users\ron\Documents\RIKU\riku\miriam0.2\obj\Debug\miriam0._2.consultarCliente.resources
+C:\Users\ron\Documents\RIKU\riku\miriam0.2\obj\Debug\miriam0._2.consultarSuplidor.resources
+C:\Users\ron\Documents\RIKU\riku\miriam0.2\obj\Debug\miriam0._2.consultarVentas.resources
+C:\Users\ron\Documents\RIKU\riku\miriam0.2\obj\Debug\miriam0._2.consultarVentasDiaria.resources
+C:\Users\ron\Documents\RIKU\riku\miriam0.2\obj\Debug\miriam0._2.conversor.resources
+C:\Users\ron\Documents\RIKU\riku\miriam0.2\obj\Debug\miriam0._2.eliminar.resources
+C:\Users\ron\Documents\RIKU\riku\miriam0.2\obj\Debug\miriam0._2.facturaNo.resources
+C:\Users\ron\Documents\RIKU\riku\miriam0.2\obj\Debug\miriam0._2.facturar.resources
+C:\Users\ron\Documents\RIKU\riku\miriam0.2\obj\Debug\miriam0._2.FacturaViewer.resources
+C:\Users\ron\Documents\RIKU\riku\miriam0.2\obj\Debug\miriam0._2.Form1.resources
+C:\Users\ron\Documents\RIKU\riku\miriam0.2\obj\Debug\miriam0._2.generador.resources
+C:\Users\ron\Documents\RIKU\riku\miriam0.2\obj\Debug\miriam0._2.home.resources
+C:\Users\ron\Documents\RIKU\riku\miriam0.2\obj\Debug\miriam0._2.inventario.resources
+C:\Users\ron\Documents\RIKU\riku\miriam0.2\obj\Debug\miriam0._2.logview.resources
+C:\Users\ron\Documents\RIKU\riku\miriam0.2\obj\Debug\miriam0._2.nuevoUsr.resources
+C:\Users\ron\Documents\RIKU\riku\miriam0.2\obj\Debug\riku.Properties.Resources.resources
+C:\Users\ron\Documents\RIKU\riku\miriam0.2\obj\Debug\miriam0._2.reporteInventario.resources
+C:\Users\ron\Documents\RIKU\riku\miriam0.2\obj\Debug\miriam0._2.salidadeinventario.resources
+C:\Users\ron\Documents\RIKU\riku\miriam0.2\obj\Debug\riku.settings.resources
+C:\Users\ron\Documents\RIKU\riku\miriam0.2\obj\Debug\miriam0._2.splash.resources
+C:\Users\ron\Documents\RIKU\riku\miriam0.2\obj\Debug\miriam0._2.suplidoresdecidir.resources
+C:\Users\ron\Documents\RIKU\riku\miriam0.2\obj\Debug\miriam0._2.verusuarios.resources
+C:\Users\ron\Documents\RIKU\riku\miriam0.2\obj\Debug\miriam0.2.csproj.GenerateResource.Cache
+C:\Users\ron\Documents\RIKU\riku\miriam0.2\obj\Debug\miriam0.2.csproj.CoreCompileInputs.cache
+C:\Users\ron\Documents\RIKU\riku\miriam0.2\obj\Debug\riku.exe
+C:\Users\ron\Documents\RIKU\riku\miriam0.2\obj\Debug\riku.pdb
+C:\Users\ron\Documents\RIKU\riku\miriam0.2\obj\Debug\riku.errorManager.resources
+C:\Users\ron\Documents\RIKU\riku\miriam0.2\obj\Debug\riku.TrustInfo.xml
+C:\Users\ron\Documents\RIKU\riku\miriam0.2\obj\Debug\riku.exe.manifest
+C:\Users\ron\Documents\RIKU\riku\miriam0.2\bin\Debug\riku.exe.manifest
+C:\Users\ron\Documents\RIKU\riku\miriam0.2\bin\Debug\riku.application
+C:\Users\ron\Documents\RIKU\riku\miriam0.2\obj\Debug\riku.application
+C:\Users\ron\Documents\RIKU\riku\miriam0.2\obj\Debug\riku.controls.botonMenu.resources
+C:\Users\ron\Documents\riku\riku\miriam0.2\obj\Debug\miriam0.2.csprojResolveAssemblyReference.cache
+C:\Users\ron\Documents\riku - una caja\riku\miriam0.2\bin\Debug\riku.exe.config
+C:\Users\ron\Documents\riku - una caja\riku\miriam0.2\bin\Debug\riku.exe.manifest
+C:\Users\ron\Documents\riku - una caja\riku\miriam0.2\bin\Debug\riku.application
+C:\Users\ron\Documents\riku - una caja\riku\miriam0.2\bin\Debug\riku.exe
+C:\Users\ron\Documents\riku - una caja\riku\miriam0.2\bin\Debug\riku.pdb
+C:\Users\ron\Documents\riku - una caja\riku\miriam0.2\obj\Debug\miriam0._2.admUsuarios.resources
+C:\Users\ron\Documents\riku - una caja\riku\miriam0.2\obj\Debug\miriam0._2.agregarActividad.resources
+C:\Users\ron\Documents\riku - una caja\riku\miriam0.2\obj\Debug\miriam0._2.agregarainventario.resources
+C:\Users\ron\Documents\riku - una caja\riku\miriam0.2\obj\Debug\miriam0._2.agregarCliente.resources
+C:\Users\ron\Documents\riku - una caja\riku\miriam0.2\obj\Debug\miriam0._2.agregarSuplidor.resources
+C:\Users\ron\Documents\riku - una caja\riku\miriam0.2\obj\Debug\miriam0._2.agregarVentaDeldia.resources
+C:\Users\ron\Documents\riku - una caja\riku\miriam0.2\obj\Debug\miriam0._2.calculadora.resources
+C:\Users\ron\Documents\riku - una caja\riku\miriam0.2\obj\Debug\miriam0._2.clientesDecidir.resources
+C:\Users\ron\Documents\riku - una caja\riku\miriam0.2\obj\Debug\miriam0._2.compraAsuplidor.resources
+C:\Users\ron\Documents\riku - una caja\riku\miriam0.2\obj\Debug\miriam0._2.consultarActividades.resources
+C:\Users\ron\Documents\riku - una caja\riku\miriam0.2\obj\Debug\miriam0._2.consultarCliente.resources
+C:\Users\ron\Documents\riku - una caja\riku\miriam0.2\obj\Debug\miriam0._2.consultarSuplidor.resources
+C:\Users\ron\Documents\riku - una caja\riku\miriam0.2\obj\Debug\miriam0._2.consultarVentas.resources
+C:\Users\ron\Documents\riku - una caja\riku\miriam0.2\obj\Debug\miriam0._2.consultarVentasDiaria.resources
+C:\Users\ron\Documents\riku - una caja\riku\miriam0.2\obj\Debug\riku.controls.botonMenu.resources
+C:\Users\ron\Documents\riku - una caja\riku\miriam0.2\obj\Debug\riku.controls.formBase.resources
+C:\Users\ron\Documents\riku - una caja\riku\miriam0.2\obj\Debug\miriam0._2.conversor.resources
+C:\Users\ron\Documents\riku - una caja\riku\miriam0.2\obj\Debug\miriam0._2.eliminar.resources
+C:\Users\ron\Documents\riku - una caja\riku\miriam0.2\obj\Debug\riku.errorManager.resources
+C:\Users\ron\Documents\riku - una caja\riku\miriam0.2\obj\Debug\miriam0._2.facturaNo.resources
+C:\Users\ron\Documents\riku - una caja\riku\miriam0.2\obj\Debug\miriam0._2.facturar.resources
+C:\Users\ron\Documents\riku - una caja\riku\miriam0.2\obj\Debug\miriam0._2.FacturaViewer.resources
+C:\Users\ron\Documents\riku - una caja\riku\miriam0.2\obj\Debug\miriam0._2.Form1.resources
+C:\Users\ron\Documents\riku - una caja\riku\miriam0.2\obj\Debug\miriam0._2.generador.resources
+C:\Users\ron\Documents\riku - una caja\riku\miriam0.2\obj\Debug\miriam0._2.home.resources
+C:\Users\ron\Documents\riku - una caja\riku\miriam0.2\obj\Debug\miriam0._2.inventario.resources
+C:\Users\ron\Documents\riku - una caja\riku\miriam0.2\obj\Debug\miriam0._2.logview.resources
+C:\Users\ron\Documents\riku - una caja\riku\miriam0.2\obj\Debug\miriam0._2.nuevoUsr.resources
+C:\Users\ron\Documents\riku - una caja\riku\miriam0.2\obj\Debug\riku.Properties.Resources.resources
+C:\Users\ron\Documents\riku - una caja\riku\miriam0.2\obj\Debug\miriam0._2.reporteInventario.resources
+C:\Users\ron\Documents\riku - una caja\riku\miriam0.2\obj\Debug\miriam0._2.salidadeinventario.resources
+C:\Users\ron\Documents\riku - una caja\riku\miriam0.2\obj\Debug\riku.settings.resources
+C:\Users\ron\Documents\riku - una caja\riku\miriam0.2\obj\Debug\miriam0._2.splash.resources
+C:\Users\ron\Documents\riku - una caja\riku\miriam0.2\obj\Debug\miriam0._2.suplidoresdecidir.resources
+C:\Users\ron\Documents\riku - una caja\riku\miriam0.2\obj\Debug\miriam0._2.verusuarios.resources
+C:\Users\ron\Documents\riku - una caja\riku\miriam0.2\obj\Debug\miriam0.2.csproj.GenerateResource.Cache
+C:\Users\ron\Documents\riku - una caja\riku\miriam0.2\obj\Debug\miriam0.2.csproj.CoreCompileInputs.cache
+C:\Users\ron\Documents\riku - una caja\riku\miriam0.2\obj\Debug\riku.TrustInfo.xml
+C:\Users\ron\Documents\riku - una caja\riku\miriam0.2\obj\Debug\riku.exe.manifest
+C:\Users\ron\Documents\riku - una caja\riku\miriam0.2\obj\Debug\riku.application
+C:\Users\ron\Documents\riku - una caja\riku\miriam0.2\obj\Debug\riku.exe
+C:\Users\ron\Documents\riku - una caja\riku\miriam0.2\obj\Debug\riku.pdb
+C:\Users\ron\Documents\riku - una caja\riku\miriam0.2\obj\Debug\riku.homeMDI.resources
+C:\Users\ron\Documents\riku - una caja\riku\miriam0.2\obj\Debug\miriam0.2.csprojResolveAssemblyReference.cache
+C:\Users\ron\Documents\riku - una caja\riku\miriam0.2\obj\Debug\riku.webBrowser.resources
+C:\Users\ron\Documents\Riku Modular\riku-unacaja-modular\riku\miriam0.2\bin\Debug\x86\sqlite3.dll
+C:\Users\ron\Documents\Riku Modular\riku-unacaja-modular\riku\miriam0.2\bin\Debug\x64\sqlite3.dll
+C:\Users\ron\Documents\Riku Modular\riku-unacaja-modular\riku\miriam0.2\bin\Debug\riku.exe.config
+C:\Users\ron\Documents\Riku Modular\riku-unacaja-modular\riku\miriam0.2\bin\Debug\riku.exe.manifest
+C:\Users\ron\Documents\Riku Modular\riku-unacaja-modular\riku\miriam0.2\bin\Debug\riku.application
+C:\Users\ron\Documents\Riku Modular\riku-unacaja-modular\riku\miriam0.2\bin\Debug\riku.exe
+C:\Users\ron\Documents\Riku Modular\riku-unacaja-modular\riku\miriam0.2\bin\Debug\riku.pdb
+C:\Users\ron\Documents\Riku Modular\riku-unacaja-modular\riku\miriam0.2\bin\Debug\EntityFramework.dll
+C:\Users\ron\Documents\Riku Modular\riku-unacaja-modular\riku\miriam0.2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ron\Documents\Riku Modular\riku-unacaja-modular\riku\miriam0.2\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\ron\Documents\Riku Modular\riku-unacaja-modular\riku\miriam0.2\bin\Debug\System.Data.SQLite.dll
+C:\Users\ron\Documents\Riku Modular\riku-unacaja-modular\riku\miriam0.2\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\ron\Documents\Riku Modular\riku-unacaja-modular\riku\miriam0.2\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\ron\Documents\Riku Modular\riku-unacaja-modular\riku\miriam0.2\bin\Debug\EntityFramework.xml
+C:\Users\ron\Documents\Riku Modular\riku-unacaja-modular\riku\miriam0.2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ron\Documents\Riku Modular\riku-unacaja-modular\riku\miriam0.2\bin\Debug\FirebirdSql.Data.FirebirdClient.pdb
+C:\Users\ron\Documents\Riku Modular\riku-unacaja-modular\riku\miriam0.2\bin\Debug\System.Data.SQLite.xml
+C:\Users\ron\Documents\Riku Modular\riku-unacaja-modular\riku\miriam0.2\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\ron\Documents\Riku Modular\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.admUsuarios.resources
+C:\Users\ron\Documents\Riku Modular\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.agregarActividad.resources
+C:\Users\ron\Documents\Riku Modular\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.agregarainventario.resources
+C:\Users\ron\Documents\Riku Modular\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.agregarCliente.resources
+C:\Users\ron\Documents\Riku Modular\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.agregarSuplidor.resources
+C:\Users\ron\Documents\Riku Modular\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.agregarVentaDeldia.resources
+C:\Users\ron\Documents\Riku Modular\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.calculadora.resources
+C:\Users\ron\Documents\Riku Modular\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.clientesDecidir.resources
+C:\Users\ron\Documents\Riku Modular\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.compraAsuplidor.resources
+C:\Users\ron\Documents\Riku Modular\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.consultarActividades.resources
+C:\Users\ron\Documents\Riku Modular\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.consultarCliente.resources
+C:\Users\ron\Documents\Riku Modular\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.consultarSuplidor.resources
+C:\Users\ron\Documents\Riku Modular\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.consultarVentas.resources
+C:\Users\ron\Documents\Riku Modular\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.consultarVentasDiaria.resources
+C:\Users\ron\Documents\Riku Modular\riku-unacaja-modular\riku\miriam0.2\obj\Debug\riku.controls.botonMenu.resources
+C:\Users\ron\Documents\Riku Modular\riku-unacaja-modular\riku\miriam0.2\obj\Debug\riku.controls.formBase.resources
+C:\Users\ron\Documents\Riku Modular\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.conversor.resources
+C:\Users\ron\Documents\Riku Modular\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.eliminar.resources
+C:\Users\ron\Documents\Riku Modular\riku-unacaja-modular\riku\miriam0.2\obj\Debug\riku.errorManager.resources
+C:\Users\ron\Documents\Riku Modular\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.facturaNo.resources
+C:\Users\ron\Documents\Riku Modular\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.facturar.resources
+C:\Users\ron\Documents\Riku Modular\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.FacturaViewer.resources
+C:\Users\ron\Documents\Riku Modular\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.Form1.resources
+C:\Users\ron\Documents\Riku Modular\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.generador.resources
+C:\Users\ron\Documents\Riku Modular\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.home.resources
+C:\Users\ron\Documents\Riku Modular\riku-unacaja-modular\riku\miriam0.2\obj\Debug\riku.homeMDI.resources
+C:\Users\ron\Documents\Riku Modular\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.inventario.resources
+C:\Users\ron\Documents\Riku Modular\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.logview.resources
+C:\Users\ron\Documents\Riku Modular\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.nuevoUsr.resources
+C:\Users\ron\Documents\Riku Modular\riku-unacaja-modular\riku\miriam0.2\obj\Debug\riku.Properties.Resources.resources
+C:\Users\ron\Documents\Riku Modular\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.reporteInventario.resources
+C:\Users\ron\Documents\Riku Modular\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.salidadeinventario.resources
+C:\Users\ron\Documents\Riku Modular\riku-unacaja-modular\riku\miriam0.2\obj\Debug\riku.settings.resources
+C:\Users\ron\Documents\Riku Modular\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.splash.resources
+C:\Users\ron\Documents\Riku Modular\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.suplidoresdecidir.resources
+C:\Users\ron\Documents\Riku Modular\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.verusuarios.resources
+C:\Users\ron\Documents\Riku Modular\riku-unacaja-modular\riku\miriam0.2\obj\Debug\riku.webBrowser.resources
+C:\Users\ron\Documents\Riku Modular\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0.2.csproj.GenerateResource.Cache
+C:\Users\ron\Documents\Riku Modular\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0.2.csproj.CoreCompileInputs.cache
+C:\Users\ron\Documents\Riku Modular\riku-unacaja-modular\riku\miriam0.2\obj\Debug\riku.TrustInfo.xml
+C:\Users\ron\Documents\Riku Modular\riku-unacaja-modular\riku\miriam0.2\obj\Debug\riku.exe.manifest
+C:\Users\ron\Documents\Riku Modular\riku-unacaja-modular\riku\miriam0.2\obj\Debug\riku.application
+C:\Users\ron\Documents\Riku Modular\riku-unacaja-modular\riku\miriam0.2\obj\Debug\riku.exe
+C:\Users\ron\Documents\Riku Modular\riku-unacaja-modular\riku\miriam0.2\obj\Debug\riku.pdb
+C:\Users\ron\Documents\Riku Modular\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0.2.csprojResolveAssemblyReference.cache
+C:\Users\cfami\Documents\riku-unacaja-modular\riku\miriam0.2\bin\Debug\x86\sqlite3.dll
+C:\Users\cfami\Documents\riku-unacaja-modular\riku\miriam0.2\bin\Debug\x64\sqlite3.dll
+C:\Users\cfami\Documents\riku-unacaja-modular\riku\miriam0.2\bin\Debug\riku.exe.config
+C:\Users\cfami\Documents\riku-unacaja-modular\riku\miriam0.2\bin\Debug\riku.exe.manifest
+C:\Users\cfami\Documents\riku-unacaja-modular\riku\miriam0.2\bin\Debug\riku.application
+C:\Users\cfami\Documents\riku-unacaja-modular\riku\miriam0.2\bin\Debug\riku.exe
+C:\Users\cfami\Documents\riku-unacaja-modular\riku\miriam0.2\bin\Debug\riku.pdb
+C:\Users\cfami\Documents\riku-unacaja-modular\riku\miriam0.2\bin\Debug\EntityFramework.dll
+C:\Users\cfami\Documents\riku-unacaja-modular\riku\miriam0.2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\cfami\Documents\riku-unacaja-modular\riku\miriam0.2\bin\Debug\System.Data.SQLite.dll
+C:\Users\cfami\Documents\riku-unacaja-modular\riku\miriam0.2\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\cfami\Documents\riku-unacaja-modular\riku\miriam0.2\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\cfami\Documents\riku-unacaja-modular\riku\miriam0.2\bin\Debug\EntityFramework.xml
+C:\Users\cfami\Documents\riku-unacaja-modular\riku\miriam0.2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cfami\Documents\riku-unacaja-modular\riku\miriam0.2\bin\Debug\System.Data.SQLite.xml
+C:\Users\cfami\Documents\riku-unacaja-modular\riku\miriam0.2\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\cfami\Documents\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0.2.csprojAssemblyReference.cache
+C:\Users\cfami\Documents\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.admUsuarios.resources
+C:\Users\cfami\Documents\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.agregarActividad.resources
+C:\Users\cfami\Documents\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.agregarainventario.resources
+C:\Users\cfami\Documents\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.agregarCliente.resources
+C:\Users\cfami\Documents\riku-unacaja-modular\riku\miriam0.2\obj\Debug\riku.errorManager.resources
+C:\Users\cfami\Documents\riku-unacaja-modular\riku\miriam0.2\obj\Debug\riku.select.resources
+C:\Users\cfami\Documents\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.agregarSuplidor.resources
+C:\Users\cfami\Documents\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.agregarVentaDeldia.resources
+C:\Users\cfami\Documents\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.calculadora.resources
+C:\Users\cfami\Documents\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.clientesDecidir.resources
+C:\Users\cfami\Documents\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.compraAsuplidor.resources
+C:\Users\cfami\Documents\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.consultarActividades.resources
+C:\Users\cfami\Documents\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.consultarCliente.resources
+C:\Users\cfami\Documents\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.consultarSuplidor.resources
+C:\Users\cfami\Documents\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.consultarVentas.resources
+C:\Users\cfami\Documents\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.consultarVentasDiaria.resources
+C:\Users\cfami\Documents\riku-unacaja-modular\riku\miriam0.2\obj\Debug\riku.controls.botonMenu.resources
+C:\Users\cfami\Documents\riku-unacaja-modular\riku\miriam0.2\obj\Debug\riku.controls.formBase.resources
+C:\Users\cfami\Documents\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.conversor.resources
+C:\Users\cfami\Documents\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.facturaNo.resources
+C:\Users\cfami\Documents\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.facturar.resources
+C:\Users\cfami\Documents\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.FacturaViewer.resources
+C:\Users\cfami\Documents\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.Form1.resources
+C:\Users\cfami\Documents\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.generador.resources
+C:\Users\cfami\Documents\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.home.resources
+C:\Users\cfami\Documents\riku-unacaja-modular\riku\miriam0.2\obj\Debug\riku.homeMDI.resources
+C:\Users\cfami\Documents\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.inventario.resources
+C:\Users\cfami\Documents\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.logview.resources
+C:\Users\cfami\Documents\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.nuevoUsr.resources
+C:\Users\cfami\Documents\riku-unacaja-modular\riku\miriam0.2\obj\Debug\riku.Properties.Resources.resources
+C:\Users\cfami\Documents\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.reporteInventario.resources
+C:\Users\cfami\Documents\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.salidadeinventario.resources
+C:\Users\cfami\Documents\riku-unacaja-modular\riku\miriam0.2\obj\Debug\riku.settings.resources
+C:\Users\cfami\Documents\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.splash.resources
+C:\Users\cfami\Documents\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.suplidoresdecidir.resources
+C:\Users\cfami\Documents\riku-unacaja-modular\riku\miriam0.2\obj\Debug\riku.addUnit.resources
+C:\Users\cfami\Documents\riku-unacaja-modular\riku\miriam0.2\obj\Debug\riku.units.resources
+C:\Users\cfami\Documents\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.verusuarios.resources
+C:\Users\cfami\Documents\riku-unacaja-modular\riku\miriam0.2\obj\Debug\riku.webBrowser.resources
+C:\Users\cfami\Documents\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0.2.csproj.GenerateResource.cache
+C:\Users\cfami\Documents\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0.2.csproj.CoreCompileInputs.cache
+C:\Users\cfami\Documents\riku-unacaja-modular\riku\miriam0.2\obj\Debug\riku.TrustInfo.xml
+C:\Users\cfami\Documents\riku-unacaja-modular\riku\miriam0.2\obj\Debug\riku.exe.manifest
+C:\Users\cfami\Documents\riku-unacaja-modular\riku\miriam0.2\obj\Debug\riku.application
+C:\Users\cfami\Documents\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0.2.csproj.CopyComplete
+C:\Users\cfami\Documents\riku-unacaja-modular\riku\miriam0.2\obj\Debug\riku.exe
+C:\Users\cfami\Documents\riku-unacaja-modular\riku\miriam0.2\obj\Debug\riku.pdb
+C:\Users\cfami\Documents\riku-unacaja-modular\riku\miriam0.2\obj\Debug\riku.progresBar.resources
+C:\Projectos\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0.2.csprojResolveAssemblyReference.cache
+C:\Projectos\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.admUsuarios.resources
+C:\Projectos\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.agregarActividad.resources
+C:\Projectos\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.agregarainventario.resources
+C:\Projectos\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.agregarCliente.resources
+C:\Projectos\riku-unacaja-modular\riku\miriam0.2\obj\Debug\riku.errorManager.resources
+C:\Projectos\riku-unacaja-modular\riku\miriam0.2\obj\Debug\riku.progresBar.resources
+C:\Projectos\riku-unacaja-modular\riku\miriam0.2\obj\Debug\riku.select.resources
+C:\Projectos\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.agregarSuplidor.resources
+C:\Projectos\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.agregarVentaDeldia.resources
+C:\Projectos\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.calculadora.resources
+C:\Projectos\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.clientesDecidir.resources
+C:\Projectos\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.compraAsuplidor.resources
+C:\Projectos\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.consultarActividades.resources
+C:\Projectos\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.consultarCliente.resources
+C:\Projectos\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.consultarSuplidor.resources
+C:\Projectos\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.consultarVentas.resources
+C:\Projectos\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.consultarVentasDiaria.resources
+C:\Projectos\riku-unacaja-modular\riku\miriam0.2\obj\Debug\riku.controls.botonMenu.resources
+C:\Projectos\riku-unacaja-modular\riku\miriam0.2\obj\Debug\riku.controls.formBase.resources
+C:\Projectos\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.conversor.resources
+C:\Projectos\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.facturaNo.resources
+C:\Projectos\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.facturar.resources
+C:\Projectos\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.FacturaViewer.resources
+C:\Projectos\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.Form1.resources
+C:\Projectos\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.generador.resources
+C:\Projectos\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.home.resources
+C:\Projectos\riku-unacaja-modular\riku\miriam0.2\obj\Debug\riku.homeMDI.resources
+C:\Projectos\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.inventario.resources
+C:\Projectos\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.logview.resources
+C:\Projectos\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.nuevoUsr.resources
+C:\Projectos\riku-unacaja-modular\riku\miriam0.2\obj\Debug\riku.Properties.Resources.resources
+C:\Projectos\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.reporteInventario.resources
+C:\Projectos\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.salidadeinventario.resources
+C:\Projectos\riku-unacaja-modular\riku\miriam0.2\obj\Debug\riku.settings.resources
+C:\Projectos\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.splash.resources
+C:\Projectos\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.suplidoresdecidir.resources
+C:\Projectos\riku-unacaja-modular\riku\miriam0.2\obj\Debug\riku.addUnit.resources
+C:\Projectos\riku-unacaja-modular\riku\miriam0.2\obj\Debug\riku.units.resources
+C:\Projectos\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.verusuarios.resources
+C:\Projectos\riku-unacaja-modular\riku\miriam0.2\obj\Debug\riku.webBrowser.resources
+C:\Projectos\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0.2.csproj.GenerateResource.Cache
+C:\Projectos\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0.2.csproj.CoreCompileInputs.cache
+C:\Projectos\riku-unacaja-modular\riku\miriam0.2\obj\Debug\riku.exe
+C:\Projectos\riku-unacaja-modular\riku\miriam0.2\obj\Debug\riku.pdb
+C:\Projectos\riku-unacaja-modular\riku\miriam0.2\bin\Debug\x86\sqlite3.dll
+C:\Projectos\riku-unacaja-modular\riku\miriam0.2\bin\Debug\x64\sqlite3.dll
+C:\Projectos\riku-unacaja-modular\riku\miriam0.2\bin\Debug\riku.exe.config
+C:\Projectos\riku-unacaja-modular\riku\miriam0.2\bin\Debug\riku.exe.manifest
+C:\Projectos\riku-unacaja-modular\riku\miriam0.2\bin\Debug\riku.application
+C:\Projectos\riku-unacaja-modular\riku\miriam0.2\bin\Debug\riku.exe
+C:\Projectos\riku-unacaja-modular\riku\miriam0.2\bin\Debug\riku.pdb
+C:\Projectos\riku-unacaja-modular\riku\miriam0.2\bin\Debug\EntityFramework.dll
+C:\Projectos\riku-unacaja-modular\riku\miriam0.2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projectos\riku-unacaja-modular\riku\miriam0.2\bin\Debug\System.Data.SQLite.dll
+C:\Projectos\riku-unacaja-modular\riku\miriam0.2\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Projectos\riku-unacaja-modular\riku\miriam0.2\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Projectos\riku-unacaja-modular\riku\miriam0.2\bin\Debug\EntityFramework.xml
+C:\Projectos\riku-unacaja-modular\riku\miriam0.2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projectos\riku-unacaja-modular\riku\miriam0.2\bin\Debug\System.Data.SQLite.xml
+C:\Projectos\riku-unacaja-modular\riku\miriam0.2\bin\Debug\System.Data.SQLite.dll.config
+C:\Projectos\riku-unacaja-modular\riku\miriam0.2\obj\Debug\riku.TrustInfo.xml
+C:\Projectos\riku-unacaja-modular\riku\miriam0.2\obj\Debug\riku.exe.manifest
+C:\Projectos\riku-unacaja-modular\riku\miriam0.2\obj\Debug\riku.application
+C:\Projectos\riku-unacaja-modular\riku\miriam0.2\obj\Debug\riku.DGII.consultarContribuyente.resources
+D:\personal projects\riku-unacaja-modular\riku\miriam0.2\bin\Debug\x86\sqlite3.dll
+D:\personal projects\riku-unacaja-modular\riku\miriam0.2\bin\Debug\x64\sqlite3.dll
+D:\personal projects\riku-unacaja-modular\riku\miriam0.2\bin\Debug\riku.exe.config
+D:\personal projects\riku-unacaja-modular\riku\miriam0.2\bin\Debug\riku.exe.manifest
+D:\personal projects\riku-unacaja-modular\riku\miriam0.2\bin\Debug\riku.application
+D:\personal projects\riku-unacaja-modular\riku\miriam0.2\bin\Debug\riku.exe
+D:\personal projects\riku-unacaja-modular\riku\miriam0.2\bin\Debug\riku.pdb
+D:\personal projects\riku-unacaja-modular\riku\miriam0.2\bin\Debug\EntityFramework.dll
+D:\personal projects\riku-unacaja-modular\riku\miriam0.2\bin\Debug\EntityFramework.SqlServer.dll
+D:\personal projects\riku-unacaja-modular\riku\miriam0.2\bin\Debug\System.Data.SQLite.dll
+D:\personal projects\riku-unacaja-modular\riku\miriam0.2\bin\Debug\System.Data.SQLite.EF6.dll
+D:\personal projects\riku-unacaja-modular\riku\miriam0.2\bin\Debug\System.Data.SQLite.Linq.dll
+D:\personal projects\riku-unacaja-modular\riku\miriam0.2\bin\Debug\EntityFramework.xml
+D:\personal projects\riku-unacaja-modular\riku\miriam0.2\bin\Debug\EntityFramework.SqlServer.xml
+D:\personal projects\riku-unacaja-modular\riku\miriam0.2\bin\Debug\System.Data.SQLite.xml
+D:\personal projects\riku-unacaja-modular\riku\miriam0.2\bin\Debug\System.Data.SQLite.dll.config
+D:\personal projects\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.admUsuarios.resources
+D:\personal projects\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.agregarActividad.resources
+D:\personal projects\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.agregarainventario.resources
+D:\personal projects\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.agregarCliente.resources
+D:\personal projects\riku-unacaja-modular\riku\miriam0.2\obj\Debug\riku.controls.menuContextual.resources
+D:\personal projects\riku-unacaja-modular\riku\miriam0.2\obj\Debug\riku.DGII.consultarContribuyente.resources
+D:\personal projects\riku-unacaja-modular\riku\miriam0.2\obj\Debug\riku.errorManager.resources
+D:\personal projects\riku-unacaja-modular\riku\miriam0.2\obj\Debug\riku.progresBar.resources
+D:\personal projects\riku-unacaja-modular\riku\miriam0.2\obj\Debug\riku.select.resources
+D:\personal projects\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.agregarSuplidor.resources
+D:\personal projects\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.agregarVentaDeldia.resources
+D:\personal projects\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.calculadora.resources
+D:\personal projects\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.clientesDecidir.resources
+D:\personal projects\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.compraAsuplidor.resources
+D:\personal projects\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.consultarActividades.resources
+D:\personal projects\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.consultarCliente.resources
+D:\personal projects\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.consultarSuplidor.resources
+D:\personal projects\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.consultarVentas.resources
+D:\personal projects\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.consultarVentasDiaria.resources
+D:\personal projects\riku-unacaja-modular\riku\miriam0.2\obj\Debug\riku.controls.botonMenu.resources
+D:\personal projects\riku-unacaja-modular\riku\miriam0.2\obj\Debug\riku.controls.formBase.resources
+D:\personal projects\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.conversor.resources
+D:\personal projects\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.facturaNo.resources
+D:\personal projects\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.facturar.resources
+D:\personal projects\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.FacturaViewer.resources
+D:\personal projects\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.Form1.resources
+D:\personal projects\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.generador.resources
+D:\personal projects\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.home.resources
+D:\personal projects\riku-unacaja-modular\riku\miriam0.2\obj\Debug\riku.homeMDI.resources
+D:\personal projects\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.inventario.resources
+D:\personal projects\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.logview.resources
+D:\personal projects\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.nuevoUsr.resources
+D:\personal projects\riku-unacaja-modular\riku\miriam0.2\obj\Debug\riku.Properties.Resources.resources
+D:\personal projects\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.reporteInventario.resources
+D:\personal projects\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.salidadeinventario.resources
+D:\personal projects\riku-unacaja-modular\riku\miriam0.2\obj\Debug\riku.settings.resources
+D:\personal projects\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.splash.resources
+D:\personal projects\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.suplidoresdecidir.resources
+D:\personal projects\riku-unacaja-modular\riku\miriam0.2\obj\Debug\riku.addUnit.resources
+D:\personal projects\riku-unacaja-modular\riku\miriam0.2\obj\Debug\riku.units.resources
+D:\personal projects\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0._2.verusuarios.resources
+D:\personal projects\riku-unacaja-modular\riku\miriam0.2\obj\Debug\riku.webBrowser.resources
+D:\personal projects\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0.2.csproj.GenerateResource.cache
+D:\personal projects\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0.2.csproj.CoreCompileInputs.cache
+D:\personal projects\riku-unacaja-modular\riku\miriam0.2\obj\Debug\riku.TrustInfo.xml
+D:\personal projects\riku-unacaja-modular\riku\miriam0.2\obj\Debug\riku.exe.manifest
+D:\personal projects\riku-unacaja-modular\riku\miriam0.2\obj\Debug\riku.application
+D:\personal projects\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0.2.csproj.CopyComplete
+D:\personal projects\riku-unacaja-modular\riku\miriam0.2\obj\Debug\riku.exe
+D:\personal projects\riku-unacaja-modular\riku\miriam0.2\obj\Debug\riku.pdb
+D:\personal projects\riku-unacaja-modular\riku\miriam0.2\obj\Debug\miriam0.2.csprojAssemblyReference.cache
+D:\personal projects\riku\riku SQLSERVER\miriam0.2\bin\Debug\riku.exe.config
+D:\personal projects\riku\riku SQLSERVER\miriam0.2\bin\Debug\riku.exe.manifest
+D:\personal projects\riku\riku SQLSERVER\miriam0.2\bin\Debug\riku.application
+D:\personal projects\riku\riku SQLSERVER\miriam0.2\bin\Debug\riku.exe
+D:\personal projects\riku\riku SQLSERVER\miriam0.2\bin\Debug\riku.pdb
+D:\personal projects\riku\riku SQLSERVER\miriam0.2\bin\Debug\EntityFramework.dll
+D:\personal projects\riku\riku SQLSERVER\miriam0.2\bin\Debug\EntityFramework.SqlServer.dll
+D:\personal projects\riku\riku SQLSERVER\miriam0.2\bin\Debug\EntityFramework.xml
+D:\personal projects\riku\riku SQLSERVER\miriam0.2\bin\Debug\EntityFramework.SqlServer.xml
+D:\personal projects\riku\riku SQLSERVER\miriam0.2\obj\Debug\miriam0._2.admUsuarios.resources
+D:\personal projects\riku\riku SQLSERVER\miriam0.2\obj\Debug\miriam0._2.agregarActividad.resources
+D:\personal projects\riku\riku SQLSERVER\miriam0.2\obj\Debug\miriam0._2.agregarainventario.resources
+D:\personal projects\riku\riku SQLSERVER\miriam0.2\obj\Debug\miriam0._2.agregarCliente.resources
+D:\personal projects\riku\riku SQLSERVER\miriam0.2\obj\Debug\riku.controls.menuContextual.resources
+D:\personal projects\riku\riku SQLSERVER\miriam0.2\obj\Debug\riku.DGII.consultarContribuyente.resources
+D:\personal projects\riku\riku SQLSERVER\miriam0.2\obj\Debug\riku.errorManager.resources
+D:\personal projects\riku\riku SQLSERVER\miriam0.2\obj\Debug\riku.select.resources
+D:\personal projects\riku\riku SQLSERVER\miriam0.2\obj\Debug\miriam0._2.agregarSuplidor.resources
+D:\personal projects\riku\riku SQLSERVER\miriam0.2\obj\Debug\miriam0._2.agregarVentaDeldia.resources
+D:\personal projects\riku\riku SQLSERVER\miriam0.2\obj\Debug\miriam0._2.calculadora.resources
+D:\personal projects\riku\riku SQLSERVER\miriam0.2\obj\Debug\miriam0._2.clientesDecidir.resources
+D:\personal projects\riku\riku SQLSERVER\miriam0.2\obj\Debug\miriam0._2.compraAsuplidor.resources
+D:\personal projects\riku\riku SQLSERVER\miriam0.2\obj\Debug\miriam0._2.consultarActividades.resources
+D:\personal projects\riku\riku SQLSERVER\miriam0.2\obj\Debug\miriam0._2.consultarCliente.resources
+D:\personal projects\riku\riku SQLSERVER\miriam0.2\obj\Debug\miriam0._2.consultarSuplidor.resources
+D:\personal projects\riku\riku SQLSERVER\miriam0.2\obj\Debug\miriam0._2.consultarVentas.resources
+D:\personal projects\riku\riku SQLSERVER\miriam0.2\obj\Debug\miriam0._2.consultarVentasDiaria.resources
+D:\personal projects\riku\riku SQLSERVER\miriam0.2\obj\Debug\riku.controls.botonMenu.resources
+D:\personal projects\riku\riku SQLSERVER\miriam0.2\obj\Debug\riku.controls.formBase.resources
+D:\personal projects\riku\riku SQLSERVER\miriam0.2\obj\Debug\miriam0._2.conversor.resources
+D:\personal projects\riku\riku SQLSERVER\miriam0.2\obj\Debug\miriam0._2.facturaNo.resources
+D:\personal projects\riku\riku SQLSERVER\miriam0.2\obj\Debug\miriam0._2.facturar.resources
+D:\personal projects\riku\riku SQLSERVER\miriam0.2\obj\Debug\miriam0._2.FacturaViewer.resources
+D:\personal projects\riku\riku SQLSERVER\miriam0.2\obj\Debug\miriam0._2.Form1.resources
+D:\personal projects\riku\riku SQLSERVER\miriam0.2\obj\Debug\miriam0._2.generador.resources
+D:\personal projects\riku\riku SQLSERVER\miriam0.2\obj\Debug\miriam0._2.home.resources
+D:\personal projects\riku\riku SQLSERVER\miriam0.2\obj\Debug\riku.homeMDI.resources
+D:\personal projects\riku\riku SQLSERVER\miriam0.2\obj\Debug\miriam0._2.inventario.resources
+D:\personal projects\riku\riku SQLSERVER\miriam0.2\obj\Debug\miriam0._2.logview.resources
+D:\personal projects\riku\riku SQLSERVER\miriam0.2\obj\Debug\miriam0._2.nuevoUsr.resources
+D:\personal projects\riku\riku SQLSERVER\miriam0.2\obj\Debug\riku.Properties.Resources.resources
+D:\personal projects\riku\riku SQLSERVER\miriam0.2\obj\Debug\miriam0._2.reporteInventario.resources
+D:\personal projects\riku\riku SQLSERVER\miriam0.2\obj\Debug\miriam0._2.salidadeinventario.resources
+D:\personal projects\riku\riku SQLSERVER\miriam0.2\obj\Debug\riku.settings.resources
+D:\personal projects\riku\riku SQLSERVER\miriam0.2\obj\Debug\miriam0._2.splash.resources
+D:\personal projects\riku\riku SQLSERVER\miriam0.2\obj\Debug\miriam0._2.suplidoresdecidir.resources
+D:\personal projects\riku\riku SQLSERVER\miriam0.2\obj\Debug\riku.addUnit.resources
+D:\personal projects\riku\riku SQLSERVER\miriam0.2\obj\Debug\riku.units.resources
+D:\personal projects\riku\riku SQLSERVER\miriam0.2\obj\Debug\miriam0._2.verusuarios.resources
+D:\personal projects\riku\riku SQLSERVER\miriam0.2\obj\Debug\riku.webBrowser.resources
+D:\personal projects\riku\riku SQLSERVER\miriam0.2\obj\Debug\miriam0.2.csproj.GenerateResource.cache
+D:\personal projects\riku\riku SQLSERVER\miriam0.2\obj\Debug\miriam0.2.csproj.CoreCompileInputs.cache
+D:\personal projects\riku\riku SQLSERVER\miriam0.2\obj\Debug\riku.TrustInfo.xml
+D:\personal projects\riku\riku SQLSERVER\miriam0.2\obj\Debug\riku.exe.manifest
+D:\personal projects\riku\riku SQLSERVER\miriam0.2\obj\Debug\riku.application
+D:\personal projects\riku\riku SQLSERVER\miriam0.2\obj\Debug\miriam0.2.csproj.CopyComplete
+D:\personal projects\riku\riku SQLSERVER\miriam0.2\obj\Debug\riku.exe
+D:\personal projects\riku\riku SQLSERVER\miriam0.2\obj\Debug\riku.pdb
+D:\personal projects\riku\riku SQLSERVER\miriam0.2\obj\Debug\riku.controls.progressBar.resources
+D:\personal projects\riku\riku SQLSERVER\miriam0.2\obj\Debug\miriam0.2.csprojAssemblyReference.cache
+D:\personal projects\riku\riku SQLSERVER\miriam0.2\bin\Debug\BouncyCastle.Crypto.dll
+D:\personal projects\riku\riku SQLSERVER\miriam0.2\bin\Debug\HtmlAgilityPack.dll
+D:\personal projects\riku\riku SQLSERVER\miriam0.2\bin\Debug\HtmlAgilityPack.pdb
+D:\personal projects\riku\riku SQLSERVER\miriam0.2\bin\Debug\HtmlAgilityPack.xml
+D:\personal projects\riku\riku SQLSERVER\miriam0.2\obj\Debug\riku.navegador.resources
+D:\personal projects\riku_server\miriam0.2\bin\Debug\riku.exe.config
+D:\personal projects\riku_server\miriam0.2\bin\Debug\riku.exe.manifest
+D:\personal projects\riku_server\miriam0.2\bin\Debug\riku.application
+D:\personal projects\riku_server\miriam0.2\bin\Debug\riku.exe
+D:\personal projects\riku_server\miriam0.2\bin\Debug\riku.pdb
+D:\personal projects\riku_server\miriam0.2\bin\Debug\BouncyCastle.Crypto.dll
+D:\personal projects\riku_server\miriam0.2\bin\Debug\EntityFramework.dll
+D:\personal projects\riku_server\miriam0.2\bin\Debug\EntityFramework.SqlServer.dll
+D:\personal projects\riku_server\miriam0.2\bin\Debug\HtmlAgilityPack.dll
+D:\personal projects\riku_server\miriam0.2\bin\Debug\EntityFramework.xml
+D:\personal projects\riku_server\miriam0.2\bin\Debug\EntityFramework.SqlServer.xml
+D:\personal projects\riku_server\miriam0.2\bin\Debug\HtmlAgilityPack.pdb
+D:\personal projects\riku_server\miriam0.2\bin\Debug\HtmlAgilityPack.xml
+D:\personal projects\riku_server\miriam0.2\obj\Debug\miriam0.2.csprojAssemblyReference.cache
+D:\personal projects\riku_server\miriam0.2\obj\Debug\miriam0._2.admUsuarios.resources
+D:\personal projects\riku_server\miriam0.2\obj\Debug\miriam0._2.agregarActividad.resources
+D:\personal projects\riku_server\miriam0.2\obj\Debug\miriam0._2.agregarainventario.resources
+D:\personal projects\riku_server\miriam0.2\obj\Debug\miriam0._2.agregarCliente.resources
+D:\personal projects\riku_server\miriam0.2\obj\Debug\riku.controls.menuContextual.resources
+D:\personal projects\riku_server\miriam0.2\obj\Debug\riku.controls.progressBar.resources
+D:\personal projects\riku_server\miriam0.2\obj\Debug\riku.DGII.consultarContribuyente.resources
+D:\personal projects\riku_server\miriam0.2\obj\Debug\riku.errorManager.resources
+D:\personal projects\riku_server\miriam0.2\obj\Debug\riku.navegador.resources
+D:\personal projects\riku_server\miriam0.2\obj\Debug\riku.select.resources
+D:\personal projects\riku_server\miriam0.2\obj\Debug\miriam0._2.agregarSuplidor.resources
+D:\personal projects\riku_server\miriam0.2\obj\Debug\miriam0._2.agregarVentaDeldia.resources
+D:\personal projects\riku_server\miriam0.2\obj\Debug\miriam0._2.calculadora.resources
+D:\personal projects\riku_server\miriam0.2\obj\Debug\miriam0._2.clientesDecidir.resources
+D:\personal projects\riku_server\miriam0.2\obj\Debug\miriam0._2.compraAsuplidor.resources
+D:\personal projects\riku_server\miriam0.2\obj\Debug\miriam0._2.consultarActividades.resources
+D:\personal projects\riku_server\miriam0.2\obj\Debug\miriam0._2.consultarCliente.resources
+D:\personal projects\riku_server\miriam0.2\obj\Debug\miriam0._2.consultarSuplidor.resources
+D:\personal projects\riku_server\miriam0.2\obj\Debug\miriam0._2.consultarVentas.resources
+D:\personal projects\riku_server\miriam0.2\obj\Debug\miriam0._2.consultarVentasDiaria.resources
+D:\personal projects\riku_server\miriam0.2\obj\Debug\riku.controls.botonMenu.resources
+D:\personal projects\riku_server\miriam0.2\obj\Debug\riku.controls.formBase.resources
+D:\personal projects\riku_server\miriam0.2\obj\Debug\miriam0._2.conversor.resources
+D:\personal projects\riku_server\miriam0.2\obj\Debug\miriam0._2.facturaNo.resources
+D:\personal projects\riku_server\miriam0.2\obj\Debug\miriam0._2.facturar.resources
+D:\personal projects\riku_server\miriam0.2\obj\Debug\miriam0._2.FacturaViewer.resources
+D:\personal projects\riku_server\miriam0.2\obj\Debug\miriam0._2.Form1.resources
+D:\personal projects\riku_server\miriam0.2\obj\Debug\miriam0._2.generador.resources
+D:\personal projects\riku_server\miriam0.2\obj\Debug\miriam0._2.home.resources
+D:\personal projects\riku_server\miriam0.2\obj\Debug\riku.homeMDI.resources
+D:\personal projects\riku_server\miriam0.2\obj\Debug\miriam0._2.inventario.resources
+D:\personal projects\riku_server\miriam0.2\obj\Debug\miriam0._2.logview.resources
+D:\personal projects\riku_server\miriam0.2\obj\Debug\miriam0._2.nuevoUsr.resources
+D:\personal projects\riku_server\miriam0.2\obj\Debug\riku.Properties.Resources.resources
+D:\personal projects\riku_server\miriam0.2\obj\Debug\miriam0._2.reporteInventario.resources
+D:\personal projects\riku_server\miriam0.2\obj\Debug\miriam0._2.salidadeinventario.resources
+D:\personal projects\riku_server\miriam0.2\obj\Debug\riku.settings.resources
+D:\personal projects\riku_server\miriam0.2\obj\Debug\miriam0._2.splash.resources
+D:\personal projects\riku_server\miriam0.2\obj\Debug\miriam0._2.suplidoresdecidir.resources
+D:\personal projects\riku_server\miriam0.2\obj\Debug\riku.addUnit.resources
+D:\personal projects\riku_server\miriam0.2\obj\Debug\riku.units.resources
+D:\personal projects\riku_server\miriam0.2\obj\Debug\miriam0._2.verusuarios.resources
+D:\personal projects\riku_server\miriam0.2\obj\Debug\riku.webBrowser.resources
+D:\personal projects\riku_server\miriam0.2\obj\Debug\miriam0.2.csproj.GenerateResource.cache
+D:\personal projects\riku_server\miriam0.2\obj\Debug\miriam0.2.csproj.CoreCompileInputs.cache
+D:\personal projects\riku_server\miriam0.2\obj\Debug\riku.TrustInfo.xml
+D:\personal projects\riku_server\miriam0.2\obj\Debug\riku.exe.manifest
+D:\personal projects\riku_server\miriam0.2\obj\Debug\riku.application
+D:\personal projects\riku_server\miriam0.2\obj\Debug\miriam0.2.csproj.CopyComplete
+D:\personal projects\riku_server\miriam0.2\obj\Debug\riku.exe
+D:\personal projects\riku_server\miriam0.2\obj\Debug\riku.pdb
+D:\PERSONAL PROJECTS\riku-normal\riku\miriam0.2\bin\Debug\riku.exe.config
+D:\PERSONAL PROJECTS\riku-normal\riku\miriam0.2\bin\Debug\riku.exe.manifest
+D:\PERSONAL PROJECTS\riku-normal\riku\miriam0.2\bin\Debug\riku.application
+D:\PERSONAL PROJECTS\riku-normal\riku\miriam0.2\bin\Debug\riku.exe
+D:\PERSONAL PROJECTS\riku-normal\riku\miriam0.2\bin\Debug\riku.pdb
+D:\PERSONAL PROJECTS\riku-normal\riku\miriam0.2\bin\Debug\BouncyCastle.Crypto.dll
+D:\PERSONAL PROJECTS\riku-normal\riku\miriam0.2\bin\Debug\EntityFramework.dll
+D:\PERSONAL PROJECTS\riku-normal\riku\miriam0.2\bin\Debug\EntityFramework.SqlServer.dll
+D:\PERSONAL PROJECTS\riku-normal\riku\miriam0.2\bin\Debug\HtmlAgilityPack.dll
+D:\PERSONAL PROJECTS\riku-normal\riku\miriam0.2\bin\Debug\EntityFramework.xml
+D:\PERSONAL PROJECTS\riku-normal\riku\miriam0.2\bin\Debug\EntityFramework.SqlServer.xml
+D:\PERSONAL PROJECTS\riku-normal\riku\miriam0.2\bin\Debug\HtmlAgilityPack.pdb
+D:\PERSONAL PROJECTS\riku-normal\riku\miriam0.2\bin\Debug\HtmlAgilityPack.xml
+D:\PERSONAL PROJECTS\riku-normal\riku\miriam0.2\obj\Debug\miriam0.2.csprojAssemblyReference.cache
+D:\PERSONAL PROJECTS\riku-normal\riku\miriam0.2\obj\Debug\miriam0._2.admUsuarios.resources
+D:\PERSONAL PROJECTS\riku-normal\riku\miriam0.2\obj\Debug\miriam0._2.agregarActividad.resources
+D:\PERSONAL PROJECTS\riku-normal\riku\miriam0.2\obj\Debug\miriam0._2.agregarainventario.resources
+D:\PERSONAL PROJECTS\riku-normal\riku\miriam0.2\obj\Debug\miriam0._2.agregarCliente.resources
+D:\PERSONAL PROJECTS\riku-normal\riku\miriam0.2\obj\Debug\riku.controls.menuContextual.resources
+D:\PERSONAL PROJECTS\riku-normal\riku\miriam0.2\obj\Debug\riku.controls.progressBar.resources
+D:\PERSONAL PROJECTS\riku-normal\riku\miriam0.2\obj\Debug\riku.DGII.consultarContribuyente.resources
+D:\PERSONAL PROJECTS\riku-normal\riku\miriam0.2\obj\Debug\riku.errorManager.resources
+D:\PERSONAL PROJECTS\riku-normal\riku\miriam0.2\obj\Debug\riku.navegador.resources
+D:\PERSONAL PROJECTS\riku-normal\riku\miriam0.2\obj\Debug\riku.select.resources
+D:\PERSONAL PROJECTS\riku-normal\riku\miriam0.2\obj\Debug\miriam0._2.agregarSuplidor.resources
+D:\PERSONAL PROJECTS\riku-normal\riku\miriam0.2\obj\Debug\miriam0._2.agregarVentaDeldia.resources
+D:\PERSONAL PROJECTS\riku-normal\riku\miriam0.2\obj\Debug\miriam0._2.calculadora.resources
+D:\PERSONAL PROJECTS\riku-normal\riku\miriam0.2\obj\Debug\miriam0._2.clientesDecidir.resources
+D:\PERSONAL PROJECTS\riku-normal\riku\miriam0.2\obj\Debug\miriam0._2.compraAsuplidor.resources
+D:\PERSONAL PROJECTS\riku-normal\riku\miriam0.2\obj\Debug\miriam0._2.consultarActividades.resources
+D:\PERSONAL PROJECTS\riku-normal\riku\miriam0.2\obj\Debug\miriam0._2.consultarCliente.resources
+D:\PERSONAL PROJECTS\riku-normal\riku\miriam0.2\obj\Debug\miriam0._2.consultarSuplidor.resources
+D:\PERSONAL PROJECTS\riku-normal\riku\miriam0.2\obj\Debug\miriam0._2.consultarVentas.resources
+D:\PERSONAL PROJECTS\riku-normal\riku\miriam0.2\obj\Debug\miriam0._2.consultarVentasDiaria.resources
+D:\PERSONAL PROJECTS\riku-normal\riku\miriam0.2\obj\Debug\riku.controls.botonMenu.resources
+D:\PERSONAL PROJECTS\riku-normal\riku\miriam0.2\obj\Debug\riku.controls.formBase.resources
+D:\PERSONAL PROJECTS\riku-normal\riku\miriam0.2\obj\Debug\miriam0._2.conversor.resources
+D:\PERSONAL PROJECTS\riku-normal\riku\miriam0.2\obj\Debug\miriam0._2.facturaNo.resources
+D:\PERSONAL PROJECTS\riku-normal\riku\miriam0.2\obj\Debug\miriam0._2.facturar.resources
+D:\PERSONAL PROJECTS\riku-normal\riku\miriam0.2\obj\Debug\miriam0._2.FacturaViewer.resources
+D:\PERSONAL PROJECTS\riku-normal\riku\miriam0.2\obj\Debug\miriam0._2.Form1.resources
+D:\PERSONAL PROJECTS\riku-normal\riku\miriam0.2\obj\Debug\miriam0._2.generador.resources
+D:\PERSONAL PROJECTS\riku-normal\riku\miriam0.2\obj\Debug\miriam0._2.home.resources
+D:\PERSONAL PROJECTS\riku-normal\riku\miriam0.2\obj\Debug\riku.homeMDI.resources
+D:\PERSONAL PROJECTS\riku-normal\riku\miriam0.2\obj\Debug\miriam0._2.inventario.resources
+D:\PERSONAL PROJECTS\riku-normal\riku\miriam0.2\obj\Debug\miriam0._2.logview.resources
+D:\PERSONAL PROJECTS\riku-normal\riku\miriam0.2\obj\Debug\miriam0._2.nuevoUsr.resources
+D:\PERSONAL PROJECTS\riku-normal\riku\miriam0.2\obj\Debug\riku.Properties.Resources.resources
+D:\PERSONAL PROJECTS\riku-normal\riku\miriam0.2\obj\Debug\miriam0._2.reporteInventario.resources
+D:\PERSONAL PROJECTS\riku-normal\riku\miriam0.2\obj\Debug\miriam0._2.salidadeinventario.resources
+D:\PERSONAL PROJECTS\riku-normal\riku\miriam0.2\obj\Debug\riku.settings.resources
+D:\PERSONAL PROJECTS\riku-normal\riku\miriam0.2\obj\Debug\miriam0._2.splash.resources
+D:\PERSONAL PROJECTS\riku-normal\riku\miriam0.2\obj\Debug\miriam0._2.suplidoresdecidir.resources
+D:\PERSONAL PROJECTS\riku-normal\riku\miriam0.2\obj\Debug\riku.addUnit.resources
+D:\PERSONAL PROJECTS\riku-normal\riku\miriam0.2\obj\Debug\riku.units.resources
+D:\PERSONAL PROJECTS\riku-normal\riku\miriam0.2\obj\Debug\miriam0._2.verusuarios.resources
+D:\PERSONAL PROJECTS\riku-normal\riku\miriam0.2\obj\Debug\riku.webBrowser.resources
+D:\PERSONAL PROJECTS\riku-normal\riku\miriam0.2\obj\Debug\miriam0.2.csproj.GenerateResource.cache
+D:\PERSONAL PROJECTS\riku-normal\riku\miriam0.2\obj\Debug\miriam0.2.csproj.CoreCompileInputs.cache
+D:\PERSONAL PROJECTS\riku-normal\riku\miriam0.2\obj\Debug\riku.TrustInfo.xml
+D:\PERSONAL PROJECTS\riku-normal\riku\miriam0.2\obj\Debug\riku.exe.manifest
+D:\PERSONAL PROJECTS\riku-normal\riku\miriam0.2\obj\Debug\riku.application
+D:\PERSONAL PROJECTS\riku-normal\riku\miriam0.2\obj\Debug\miriam0.2.csproj.CopyComplete
+D:\PERSONAL PROJECTS\riku-normal\riku\miriam0.2\obj\Debug\riku.exe
+D:\PERSONAL PROJECTS\riku-normal\riku\miriam0.2\obj\Debug\riku.pdb
+D:\PERSONAL PROJECTS\riku-normal\riku\miriam0.2\bin\Debug\RestSharp.dll
+D:\PERSONAL PROJECTS\riku-normal\riku\miriam0.2\bin\Debug\RestSharp.xml

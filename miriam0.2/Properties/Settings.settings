@@ -1,0 +1,84 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="riku.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="color" Type="System.String" Scope="User">
+      <Value Profile="(Default)">rojo</Value>
+    </Setting>
+    <Setting Name="loadingName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Riku</Value>
+    </Setting>
+    <Setting Name="loadingPhr" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Version Empresarial</Value>
+    </Setting>
+    <Setting Name="startMode" Type="System.String" Scope="User">
+      <Value Profile="(Default)">fullScreen</Value>
+    </Setting>
+    <Setting Name="Setting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">mainpage</Value>
+    </Setting>
+    <Setting Name="instance" Type="System.String" Scope="User">
+      <Value Profile="(Default)">NoData</Value>
+    </Setting>
+    <Setting Name="webhomepage" Type="System.String" Scope="User">
+      <Value Profile="(Default)">google.com</Value>
+    </Setting>
+    <Setting Name="database" Type="System.String" Scope="User">
+      <Value Profile="(Default)">riku</Value>
+    </Setting>
+    <Setting Name="integratedSecurity" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="ConnectTimeout" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">30</Value>
+    </Setting>
+    <Setting Name="Encrypt" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="TrustServerCertificate" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="ApplicationIntent" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ReadWrite</Value>
+    </Setting>
+    <Setting Name="MultiSubnetFailover" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="currentVersion" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">1.5</Value>
+    </Setting>
+    <Setting Name="localVersion" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">1.5</Value>
+    </Setting>
+    <Setting Name="searchUpdatesonLoad" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="url1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://ronycruz.com</Value>
+    </Setting>
+    <Setting Name="lastRequest" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="receiptName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Riku Software</Value>
+    </Setting>
+    <Setting Name="customReceiptFooter" Type="System.String" Scope="User">
+      <Value Profile="(Default)">You can customize this text You can customize this text You can customize this text You can customize this text </Value>
+    </Setting>
+    <Setting Name="dbUser" Type="System.String" Scope="User">
+      <Value Profile="(Default)">sa</Value>
+    </Setting>
+    <Setting Name="dbPass" Type="System.String" Scope="User">
+      <Value Profile="(Default)">sa1234</Value>
+    </Setting>
+    <Setting Name="rikuNetworkSyncActive" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="rikuNetworkBussinessCode" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="rikuNetworkPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>

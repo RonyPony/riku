@@ -1,0 +1,171 @@
+C:\Users\Rony\source\repos\miriam0.2\miriam0.2\bin\Debug\miriam0.2.exe.config
+C:\Users\Rony\source\repos\miriam0.2\miriam0.2\bin\Debug\miriam0.2.exe
+C:\Users\Rony\source\repos\miriam0.2\miriam0.2\bin\Debug\miriam0.2.pdb
+C:\Users\Rony\source\repos\miriam0.2\miriam0.2\obj\Debug\miriam0._2.admUsuarios.resources
+C:\Users\Rony\source\repos\miriam0.2\miriam0.2\obj\Debug\miriam0._2.agregarSuplidor.resources
+C:\Users\Rony\source\repos\miriam0.2\miriam0.2\obj\Debug\miriam0._2.compraAsuplidor.resources
+C:\Users\Rony\source\repos\miriam0.2\miriam0.2\obj\Debug\miriam0._2.facturar.resources
+C:\Users\Rony\source\repos\miriam0.2\miriam0.2\obj\Debug\miriam0._2.Form1.resources
+C:\Users\Rony\source\repos\miriam0.2\miriam0.2\obj\Debug\miriam0._2.home.resources
+C:\Users\Rony\source\repos\miriam0.2\miriam0.2\obj\Debug\miriam0._2.Properties.Resources.resources
+C:\Users\Rony\source\repos\miriam0.2\miriam0.2\obj\Debug\miriam0._2.splash.resources
+C:\Users\Rony\source\repos\miriam0.2\miriam0.2\obj\Debug\miriam0.2.csproj.GenerateResource.Cache
+C:\Users\Rony\source\repos\miriam0.2\miriam0.2\obj\Debug\miriam0.2.csproj.CoreCompileInputs.cache
+C:\Users\Rony\source\repos\miriam0.2\miriam0.2\obj\Debug\miriam0.2.exe
+C:\Users\Rony\source\repos\miriam0.2\miriam0.2\obj\Debug\miriam0.2.pdb
+C:\Users\Rony\source\repos\miriam0.2\miriam0.2\obj\Debug\miriam0.2.csprojResolveAssemblyReference.cache
+C:\Users\Rony\source\repos\miriam0.2\miriam0.2\obj\Debug\miriam0._2.resetPasword.resources
+C:\Users\Rony\source\repos\miriam0.2\miriam0.2\obj\Debug\miriam0._2.nuevoUsr.resources
+C:\Users\Rony\source\repos\miriam0.2\miriam0.2\obj\Debug\miriam0._2.generador.resources
+C:\Users\Rony\source\repos\miriam0.2\miriam0.2\obj\Debug\miriam0._2.eliminar.resources
+C:\Users\Ing. Rony Cruz\Desktop\embutidos el mana de dios\miriam0.2\bin\Debug\elmanadedios.exe.config
+C:\Users\Ing. Rony Cruz\Desktop\embutidos el mana de dios\miriam0.2\bin\Debug\elmanadedios.exe
+C:\Users\Ing. Rony Cruz\Desktop\embutidos el mana de dios\miriam0.2\bin\Debug\elmanadedios.pdb
+C:\Users\Ing. Rony Cruz\Desktop\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0.2.csprojResolveAssemblyReference.cache
+C:\Users\Ing. Rony Cruz\Desktop\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.admUsuarios.resources
+C:\Users\Ing. Rony Cruz\Desktop\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.agregarSuplidor.resources
+C:\Users\Ing. Rony Cruz\Desktop\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.compraAsuplidor.resources
+C:\Users\Ing. Rony Cruz\Desktop\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.eliminar.resources
+C:\Users\Ing. Rony Cruz\Desktop\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.facturar.resources
+C:\Users\Ing. Rony Cruz\Desktop\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.Form1.resources
+C:\Users\Ing. Rony Cruz\Desktop\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.generador.resources
+C:\Users\Ing. Rony Cruz\Desktop\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.home.resources
+C:\Users\Ing. Rony Cruz\Desktop\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.nuevoUsr.resources
+C:\Users\Ing. Rony Cruz\Desktop\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.Properties.Resources.resources
+C:\Users\Ing. Rony Cruz\Desktop\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.resetPasword.resources
+C:\Users\Ing. Rony Cruz\Desktop\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.splash.resources
+C:\Users\Ing. Rony Cruz\Desktop\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0.2.csproj.GenerateResource.Cache
+C:\Users\Ing. Rony Cruz\Desktop\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0.2.csproj.CoreCompileInputs.cache
+C:\Users\Ing. Rony Cruz\Desktop\embutidos el mana de dios\miriam0.2\obj\Debug\elmanadedios.exe
+C:\Users\Ing. Rony Cruz\Desktop\embutidos el mana de dios\miriam0.2\obj\Debug\elmanadedios.pdb
+C:\Users\Ing. Rony Cruz\Desktop\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.inventario.resources
+C:\Users\Ing. Rony Cruz\Desktop\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.calculadora.resources
+C:\Users\Ing. Rony Cruz\Desktop\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.consultarSuplidor.resources
+C:\Users\Ing. Rony Cruz\Desktop\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.verusuarios.resources
+C:\Users\Ing. Rony Cruz\Desktop\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.conversor.resources
+C:\Users\Ing. Rony Cruz\Desktop\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.agregarainventario.resources
+C:\Users\Ing. Rony Cruz\Desktop\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.suplidoresdecidir.resources
+C:\Users\Ing. Rony Cruz\Desktop\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.consultarCliente.resources
+C:\Users\Ing. Rony Cruz\Desktop\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.clientesDecidir.resources
+C:\Users\Ing. Rony Cruz\Desktop\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.agregarCliente.resources
+C:\Users\Ing. Rony Cruz\Desktop\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.reporteInventario.resources
+C:\Users\Ing. Rony Cruz\Desktop\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.logview.resources
+C:\Users\Ing. Rony Cruz\Desktop\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.consultarVentas.resources
+C:\Users\Ing. Rony Cruz\Desktop\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.FacturaViewer.resources
+F:\embutidos el mana de dios\miriam0.2\bin\Debug\elmanadedios.exe.config
+F:\embutidos el mana de dios\miriam0.2\bin\Debug\elmanadedios.exe
+F:\embutidos el mana de dios\miriam0.2\bin\Debug\elmanadedios.pdb
+F:\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.admUsuarios.resources
+F:\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.agregarainventario.resources
+F:\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.agregarCliente.resources
+F:\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.agregarSuplidor.resources
+F:\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.calculadora.resources
+F:\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.clientesDecidir.resources
+F:\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.compraAsuplidor.resources
+F:\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.consultarCliente.resources
+F:\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.consultarSuplidor.resources
+F:\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.consultarVentas.resources
+F:\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.conversor.resources
+F:\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.eliminar.resources
+F:\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.facturar.resources
+F:\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.FacturaViewer.resources
+F:\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.Form1.resources
+F:\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.generador.resources
+F:\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.home.resources
+F:\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.inventario.resources
+F:\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.logview.resources
+F:\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.nuevoUsr.resources
+F:\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.Properties.Resources.resources
+F:\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.reporteInventario.resources
+F:\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.splash.resources
+F:\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.suplidoresdecidir.resources
+F:\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.verusuarios.resources
+F:\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0.2.csproj.GenerateResource.Cache
+F:\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0.2.csproj.CoreCompileInputs.cache
+F:\embutidos el mana de dios\miriam0.2\obj\Debug\elmanadedios.exe
+F:\embutidos el mana de dios\miriam0.2\obj\Debug\elmanadedios.pdb
+F:\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.salidadeinventario.resources
+F:\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.agregarVentaDeldia.resources
+F:\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.consultarVentasDiaria.resources
+F:\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.agregarActividad.resources
+F:\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.consultarActividades.resources
+F:\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0.2.csprojResolveAssemblyReference.cache
+F:\embutidos el mana de dios\miriam0.2\obj\Debug\miriam0._2.facturaNo.resources
+C:\Users\rony cruz\Desktop\Riku\miriam0.2\obj\Debug\miriam0.2.csprojResolveAssemblyReference.cache
+C:\Users\rony cruz\Desktop\Riku\miriam0.2\obj\Debug\miriam0._2.admUsuarios.resources
+C:\Users\rony cruz\Desktop\Riku\miriam0.2\obj\Debug\miriam0._2.agregarActividad.resources
+C:\Users\rony cruz\Desktop\Riku\miriam0.2\obj\Debug\miriam0._2.agregarainventario.resources
+C:\Users\rony cruz\Desktop\Riku\miriam0.2\obj\Debug\miriam0._2.agregarCliente.resources
+C:\Users\rony cruz\Desktop\Riku\miriam0.2\obj\Debug\miriam0._2.agregarSuplidor.resources
+C:\Users\rony cruz\Desktop\Riku\miriam0.2\obj\Debug\miriam0._2.agregarVentaDeldia.resources
+C:\Users\rony cruz\Desktop\Riku\miriam0.2\obj\Debug\miriam0._2.calculadora.resources
+C:\Users\rony cruz\Desktop\Riku\miriam0.2\obj\Debug\miriam0._2.clientesDecidir.resources
+C:\Users\rony cruz\Desktop\Riku\miriam0.2\obj\Debug\miriam0._2.compraAsuplidor.resources
+C:\Users\rony cruz\Desktop\Riku\miriam0.2\obj\Debug\miriam0._2.consultarActividades.resources
+C:\Users\rony cruz\Desktop\Riku\miriam0.2\obj\Debug\miriam0._2.consultarCliente.resources
+C:\Users\rony cruz\Desktop\Riku\miriam0.2\obj\Debug\miriam0._2.consultarSuplidor.resources
+C:\Users\rony cruz\Desktop\Riku\miriam0.2\obj\Debug\miriam0._2.consultarVentas.resources
+C:\Users\rony cruz\Desktop\Riku\miriam0.2\obj\Debug\miriam0._2.consultarVentasDiaria.resources
+C:\Users\rony cruz\Desktop\Riku\miriam0.2\obj\Debug\miriam0._2.conversor.resources
+C:\Users\rony cruz\Desktop\Riku\miriam0.2\obj\Debug\miriam0._2.eliminar.resources
+C:\Users\rony cruz\Desktop\Riku\miriam0.2\obj\Debug\miriam0._2.facturaNo.resources
+C:\Users\rony cruz\Desktop\Riku\miriam0.2\obj\Debug\miriam0._2.facturar.resources
+C:\Users\rony cruz\Desktop\Riku\miriam0.2\obj\Debug\miriam0._2.FacturaViewer.resources
+C:\Users\rony cruz\Desktop\Riku\miriam0.2\obj\Debug\miriam0._2.Form1.resources
+C:\Users\rony cruz\Desktop\Riku\miriam0.2\obj\Debug\miriam0._2.generador.resources
+C:\Users\rony cruz\Desktop\Riku\miriam0.2\obj\Debug\miriam0._2.home.resources
+C:\Users\rony cruz\Desktop\Riku\miriam0.2\obj\Debug\miriam0._2.inventario.resources
+C:\Users\rony cruz\Desktop\Riku\miriam0.2\obj\Debug\miriam0._2.logview.resources
+C:\Users\rony cruz\Desktop\Riku\miriam0.2\obj\Debug\miriam0._2.nuevoUsr.resources
+C:\Users\rony cruz\Desktop\Riku\miriam0.2\obj\Debug\miriam0._2.reporteInventario.resources
+C:\Users\rony cruz\Desktop\Riku\miriam0.2\obj\Debug\miriam0._2.salidadeinventario.resources
+C:\Users\rony cruz\Desktop\Riku\miriam0.2\obj\Debug\miriam0._2.splash.resources
+C:\Users\rony cruz\Desktop\Riku\miriam0.2\obj\Debug\miriam0._2.suplidoresdecidir.resources
+C:\Users\rony cruz\Desktop\Riku\miriam0.2\obj\Debug\miriam0._2.verusuarios.resources
+C:\Users\rony cruz\Desktop\Riku\miriam0.2\obj\Debug\miriam0.2.csproj.GenerateResource.Cache
+C:\Users\rony cruz\Desktop\Riku\miriam0.2\obj\Debug\miriam0.2.csproj.CoreCompileInputs.cache
+C:\Users\rony cruz\Desktop\Riku\miriam0.2\bin\Debug\riku.exe.config
+C:\Users\rony cruz\Desktop\Riku\miriam0.2\bin\Debug\riku.exe
+C:\Users\rony cruz\Desktop\Riku\miriam0.2\bin\Debug\riku.pdb
+C:\Users\rony cruz\Desktop\Riku\miriam0.2\obj\Debug\riku.Properties.Resources.resources
+C:\Users\rony cruz\Desktop\Riku\miriam0.2\obj\Debug\riku.exe
+C:\Users\rony cruz\Desktop\Riku\miriam0.2\obj\Debug\riku.pdb
+E:\OneDrive\codigos_fuente\Riku\miriam0.2\bin\Debug\riku.exe.config
+E:\OneDrive\codigos_fuente\Riku\miriam0.2\bin\Debug\riku.exe
+E:\OneDrive\codigos_fuente\Riku\miriam0.2\bin\Debug\riku.pdb
+E:\OneDrive\codigos_fuente\Riku\miriam0.2\obj\Debug\miriam0.2.csprojResolveAssemblyReference.cache
+E:\OneDrive\codigos_fuente\Riku\miriam0.2\obj\Debug\miriam0._2.admUsuarios.resources
+E:\OneDrive\codigos_fuente\Riku\miriam0.2\obj\Debug\miriam0._2.agregarActividad.resources
+E:\OneDrive\codigos_fuente\Riku\miriam0.2\obj\Debug\miriam0._2.agregarainventario.resources
+E:\OneDrive\codigos_fuente\Riku\miriam0.2\obj\Debug\miriam0._2.agregarCliente.resources
+E:\OneDrive\codigos_fuente\Riku\miriam0.2\obj\Debug\miriam0._2.agregarSuplidor.resources
+E:\OneDrive\codigos_fuente\Riku\miriam0.2\obj\Debug\miriam0._2.agregarVentaDeldia.resources
+E:\OneDrive\codigos_fuente\Riku\miriam0.2\obj\Debug\miriam0._2.calculadora.resources
+E:\OneDrive\codigos_fuente\Riku\miriam0.2\obj\Debug\miriam0._2.clientesDecidir.resources
+E:\OneDrive\codigos_fuente\Riku\miriam0.2\obj\Debug\miriam0._2.compraAsuplidor.resources
+E:\OneDrive\codigos_fuente\Riku\miriam0.2\obj\Debug\miriam0._2.consultarActividades.resources
+E:\OneDrive\codigos_fuente\Riku\miriam0.2\obj\Debug\miriam0._2.consultarCliente.resources
+E:\OneDrive\codigos_fuente\Riku\miriam0.2\obj\Debug\miriam0._2.consultarSuplidor.resources
+E:\OneDrive\codigos_fuente\Riku\miriam0.2\obj\Debug\miriam0._2.consultarVentas.resources
+E:\OneDrive\codigos_fuente\Riku\miriam0.2\obj\Debug\miriam0._2.consultarVentasDiaria.resources
+E:\OneDrive\codigos_fuente\Riku\miriam0.2\obj\Debug\miriam0._2.conversor.resources
+E:\OneDrive\codigos_fuente\Riku\miriam0.2\obj\Debug\miriam0._2.eliminar.resources
+E:\OneDrive\codigos_fuente\Riku\miriam0.2\obj\Debug\miriam0._2.facturaNo.resources
+E:\OneDrive\codigos_fuente\Riku\miriam0.2\obj\Debug\miriam0._2.facturar.resources
+E:\OneDrive\codigos_fuente\Riku\miriam0.2\obj\Debug\miriam0._2.FacturaViewer.resources
+E:\OneDrive\codigos_fuente\Riku\miriam0.2\obj\Debug\miriam0._2.Form1.resources
+E:\OneDrive\codigos_fuente\Riku\miriam0.2\obj\Debug\miriam0._2.generador.resources
+E:\OneDrive\codigos_fuente\Riku\miriam0.2\obj\Debug\miriam0._2.home.resources
+E:\OneDrive\codigos_fuente\Riku\miriam0.2\obj\Debug\miriam0._2.inventario.resources
+E:\OneDrive\codigos_fuente\Riku\miriam0.2\obj\Debug\miriam0._2.logview.resources
+E:\OneDrive\codigos_fuente\Riku\miriam0.2\obj\Debug\miriam0._2.nuevoUsr.resources
+E:\OneDrive\codigos_fuente\Riku\miriam0.2\obj\Debug\riku.Properties.Resources.resources
+E:\OneDrive\codigos_fuente\Riku\miriam0.2\obj\Debug\miriam0._2.reporteInventario.resources
+E:\OneDrive\codigos_fuente\Riku\miriam0.2\obj\Debug\miriam0._2.salidadeinventario.resources
+E:\OneDrive\codigos_fuente\Riku\miriam0.2\obj\Debug\miriam0._2.splash.resources
+E:\OneDrive\codigos_fuente\Riku\miriam0.2\obj\Debug\miriam0._2.suplidoresdecidir.resources
+E:\OneDrive\codigos_fuente\Riku\miriam0.2\obj\Debug\miriam0._2.verusuarios.resources
+E:\OneDrive\codigos_fuente\Riku\miriam0.2\obj\Debug\miriam0.2.csproj.GenerateResource.Cache
+E:\OneDrive\codigos_fuente\Riku\miriam0.2\obj\Debug\miriam0.2.csproj.CoreCompileInputs.cache
+E:\OneDrive\codigos_fuente\Riku\miriam0.2\obj\Debug\riku.exe
+E:\OneDrive\codigos_fuente\Riku\miriam0.2\obj\Debug\riku.pdb

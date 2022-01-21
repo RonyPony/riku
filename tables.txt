@@ -1,0 +1,154 @@
+CREATE DATABASE Riku;
+use Riku
+CREATE TABLE actividades (
+    Idactividad   INTEGER PRIMARY KEY,
+    accion        TEXT         NULL,
+    flujoefectivo VARCHAR (50) NULL,
+    tipo          VARCHAR (50) NULL,
+    fecha         VARCHAR (50) NULL
+);
+
+CREATE TABLE clientes (
+    Idcliente    INTEGER PRIMARY KEY,
+    nombre       VARCHAR (50) NULL,
+    apellidos    VARCHAR (50) NULL,
+    tipo         VARCHAR (50) NULL,
+    clientedesde VARCHAR (50) NULL,
+    telefono     VARCHAR (50) NULL,
+    comentario   TEXT         NULL
+);
+
+truncate table clientes;
+
+insert into clientes(nombre,tipo)values('Cliente Al Contado','Fijo');
+
+CREATE TABLE compras (
+    idcompra            INTEGER PRIMARY KEY,
+    empleado            VARCHAR (50) NULL,
+    fecha               DATE         NULL,
+    idsuplidor          INT          NULL,
+    elementosfacturados INT          NULL,
+    total               VARCHAR (50) NULL
+);
+CREATE TABLE facturas (
+    idventa   INTEGER PRIMARY KEY,
+    producto  VARCHAR (50) NULL,
+    cantidad  VARCHAR (50) NULL,
+    precio    VARCHAR (50) NULL,
+    saldo     VARCHAR (50) NULL,
+    descuento VARCHAR (50) NULL,
+    subtotal  VARCHAR (50) NULL
+);
+CREATE TABLE inventario (
+    Idproducto            INTEGER PRIMARY KEY,
+    nombredeproducto      VARCHAR (50) NULL,
+    marca                 VARCHAR (50) NULL,
+    medida                VARCHAR (50) NULL,
+    preciocomprapormedida TEXT         NULL,
+    precioventa           VARCHAR (50) NULL,
+    idsuplidor            VARCHAR (50) NULL,
+    precioventapormedida  VARCHAR (50) NULL,
+    descripcion           TEXT         NULL,
+    unidaddemedida        VARCHAR (50) NULL,
+    fechadecompra         VARCHAR (50) NULL
+);
+CREATE TABLE reporteinventario (
+    Idreporte INTEGER PRIMARY KEY,
+    producto  VARCHAR (50) NULL,
+    fecha     VARCHAR (50) NULL,
+    hora      VARCHAR (50) NULL,
+    accion    TEXT         NULL
+);
+CREATE TABLE suplidores (
+    Idsuplidor  INTEGER PRIMARY KEY,
+    rnc         VARCHAR (50) NULL,
+    tipo        VARCHAR (50) NULL,
+    nombre      VARCHAR (50) NULL,
+    telefono    VARCHAR (50) NULL,
+    comentarios VARCHAR (50) NULL,
+    direccion   VARCHAR (50) NULL
+);
+CREATE TABLE usuarios (
+    Id                INTEGER PRIMARY KEY,
+    usuario           VARCHAR (50)  NULL,
+    clave             VARCHAR (50)  NULL,
+    tipo              VARCHAR (50)  NULL,
+    nombre            VARCHAR (50)  NULL,
+    apellidos         VARCHAR (50)  NULL,
+    correo            VARCHAR (50)  NULL,
+    telefono          VARCHAR (50)  NULL,
+    fechadenacimiento VARCHAR (50)  NULL,
+    sexo              VARCHAR (100) NULL,
+    comentario        TEXT          NULL,
+moduloInicial varchar(50) null
+);
+CREATE TABLE ventas (
+    idventa             INTEGER PRIMARY KEY,
+    empleado            VARCHAR (50) NULL,
+    fecha               VARCHAR (50) NULL,
+    idcliente           INT          NULL,
+    tipodeventa         VARCHAR (50) NULL,
+    elementosfacturados INT          NULL,
+    total               VARCHAR (50) NULL
+);
+CREATE TABLE ventasDiarias (
+    Idventadiaria INTEGER PRIMARY KEY,
+    fecha         VARCHAR (50) NULL,
+    dinero        VARCHAR (50) NULL
+);
+
+CREATE TABLE units(
+    Id		  INTEGER PRIMARY KEY,
+    nombre	  VARCHAR (50) NULL,
+    descripcion   VARCHAR (50) NULL,
+    createdby     VARCHAR (50) NULL
+);
+CREATE TABLE [dbo].[contribuyentes](
+	[rnc] [bigint] NOT NULL,
+	[nombre] [varchar](100) NULL,
+	[descripcion] [text] NULL,
+	[fecha] [varchar](50) NULL,
+	[estado] [varchar](50) NULL,
+	[condicion] [varchar](50) NULL
+);
+
+CREATE TABLE [dbo].[log](
+	[logType] [varchar](50) NULL,
+	[user] [varchar](50) NULL,
+	[datetime] [varchar](50) NULL,
+	[info] [text] NULL
+) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
+GO
+
+
+
+
+
+CREATE TABLE [dbo].[modulos](
+	[id] [int] IDENTITY(1,1) NOT NULL,
+	[name] [varchar](50) NULL,
+	[systemName] [varchar](50) NULL,
+	[active] [binary](50) NULL
+) ON [PRIMARY]
+GO
+
+
+insert into modulos(name,systemName)values('inventario','inventario');
+insert into modulos(name,systemName)values('consultar una factura','facturaNo');
+insert into modulos(name,systemName)values('consultar ventas','consultarVentas');
+insert into modulos(name,systemName)values('consultar una actividad','consultarActividades');
+insert into modulos(name,systemName)values('consultar venta del dia','consultarVentasDiaria');
+insert into modulos(name,systemName)values('registrar actividad','agregarActividad');
+insert into modulos(name,systemName)values('registrar venta del dia','agregarVentaDeldia');
+insert into modulos(name,systemName)values('Ninguna','null');
+insert into modulos(name,systemName)values('facturar','facturar');
+insert into modulos(name,systemName)values('calculadora','calculadora');
+insert into modulos(name,systemName)values('navegador','webBrowser');
+insert into modulos(name,systemName)values('inicio','home');
+insert into modulos(name,systemName)values('administrador de usuarios','admUsuarios');
+insert into modulos(name,systemName)values('nuevo usuario','admUsuarios');
+insert into modulos(name,systemName)values('consultar clientes','consultarCliente');
+insert into modulos(name,systemName)values('nuevo cliente','agregarCliente');
+insert into modulos(name,systemName)values('agregar suplidor','agregarSuplidor');
+insert into modulos(name,systemName)values('consultar suplidores','consultarSuplidor');
+

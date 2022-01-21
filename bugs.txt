@@ -1,0 +1,5 @@
+RIKU BUGS
+-hace ventas sin productos
+-organizacion de los botones por resolucion de pantalla
+-manejar inventario como calculos (esxistencia=compra-venta)
+-hacer deploy con instancia vacia para poder validar en el login y que no dure mucho
